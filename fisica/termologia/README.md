@@ -6,7 +6,7 @@
 
 > **macroscópico**: aspectos globais do sistema (ex: volume, temperatura) **microscópico**: aspectos que passam despercebidos (ex: energia das moléculas e suas interações)
 
-* [calor.md](calor.md "mention")
-* \[\[Estados Físicos ou Estados de Agregação da Matéria]]
+* [Calor](calor.md)
+* [Estados Físicos ou Estados de Agregação da Matéria](estados-fisicos-ou-estados-de-agregacao-da-materia.md)
 * \[\[Temperatura e Noções]] → \[\[Lei Zero da Termodinâmica]] → \[\[Escalas Termométricas]]
 * \[\[Dilatação e Contração Térmica]]
