@@ -12,6 +12,7 @@
 ## Física
 
 * [Termologia](fisica/termologia/README.md)
+  * [Energia Térmica](fisica/termologia/energia-termica.md)
   * [Estados Físicos ou Estados de Agregação da Matéria](fisica/termologia/estados-fisicos-ou-estados-de-agregacao-da-materia.md)
   * [Calor](fisica/termologia/calor.md)
 * [Óptica](fisica/optica.md)
