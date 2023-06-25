@@ -1,8 +1,14 @@
 # Dilatação e Contração Térmica
 
-* _**Dilatação:**_ Acontece quando um corpo ==aumenta de tamanho==/tem suas dimensões aumentadas ao ter sua temperatura aumentada. → acontece porque a agitação térmica aumenta, fazendo com que as partículas colidam com mais frequência, as ==separando== e causando a dilatação. → Dilatação térmica é sempre volumétrica.
+* _**Dilatação:**_ Acontece quando um corpo **aumenta de tamanho**/tem suas dimensões aumentadas ao ter sua temperatura aumentada. → acontece porque a agitação térmica aumenta, fazendo com que as partículas colidam com mais frequência, as **separando** e causando a dilatação. → <mark style="color:red;">Dilatação térmica é sempre volumétrica.</mark>
 
-### Dilatação Linear
+> [_**Dilatação linear**_](dilatacao-e-contracao-termica.md#dilatacao-linear): aumento de uma das dimensões do corpo&#x20;
+>
+> [_**Dilatação superficial**_](dilatacao-e-contracao-termica.md#dilatacao-superficial)_**:**_ aumento da área de uma superfície (duas dimensões)&#x20;
+>
+> [_**Dilatação volumétrica**_](dilatacao-e-contracao-termica.md#dilatacao-volumetrica)_**:**_ aumento do volume do corpo (três dimensões) → líquidos
+
+### <mark style="color:purple;">Dilatação Linear</mark>
 
 * Aumento de **uma** das dimensões do corpo
 * Lei da Dilatação Linear&#x20;
@@ -45,12 +51,6 @@ $$\Delta V_{ap} = \gamma_{ap}\times V_{0}\times\Delta \theta\to\Delta V_{F} = \g
 
 * coeficiente de **dilatação aparente** de um líquido depende da natureza do líquido e do material do frasco. $$\gamma=\gamma_{ap}+\gamma_{F}$$
 
-### Comportamento Anômalo da Água
-
-\#tbd
-
-***
-
-> _**Dilatação linear**_: aumento de uma das dimensões do corpo _**Dilatação superficial:**_ aumento da área de uma superfície (duas dimensões) _**Dilatação volumétrica:**_ aumento do volume do corpo (três dimensões) → líquidos
+### <mark style="color:purple;">Comportamento Anômalo da Água</mark>
 
 * _**Contração:**_ Acontece quando um corpo ==diminui de tamanho==/tem suas dimensões diminuídas ao ter sua temperatura diminuída.
