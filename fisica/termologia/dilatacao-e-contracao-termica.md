@@ -53,4 +53,4 @@ $$\Delta V_{ap} = \gamma_{ap}\times V_{0}\times\Delta \theta\to\Delta V_{F} = \g
 
 ### <mark style="color:purple;">Comportamento Anômalo da Água</mark>
 
-* _**Contração:**_ Acontece quando um corpo ==diminui de tamanho==/tem suas dimensões diminuídas ao ter sua temperatura diminuída.
+* _**Contração:**_ Acontece quando um corpo **diminui de tamanho**/tem suas dimensões diminuídas ao ter sua temperatura diminuída.

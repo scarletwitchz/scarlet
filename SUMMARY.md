@@ -12,6 +12,9 @@
 ## Física
 
 * [Termologia](fisica/termologia/README.md)
+  * [Temperatura e Noções](fisica/termologia/temperatura-e-nocoes.md)
+  * [Lei Zero da Termodinâmica](fisica/termologia/lei-zero-da-termodinamica.md)
+  * [Estudos dos Gases Perfeitos](fisica/termologia/estudos-dos-gases-perfeitos.md)
   * [Dilatação e Contração Térmica](fisica/termologia/dilatacao-e-contracao-termica.md)
   * [Energia Térmica](fisica/termologia/energia-termica.md)
   * [Estados Físicos ou Estados de Agregação da Matéria](fisica/termologia/estados-fisicos-ou-estados-de-agregacao-da-materia.md)
