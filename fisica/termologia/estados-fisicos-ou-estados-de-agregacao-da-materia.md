@@ -1,7 +1,5 @@
 # Estados Físicos ou Estados de Agregação da Matéria
 
-* <mark style="color:yellow;">Ver também</mark>: [forcas-de-coesao.md](../forcas-de-coesao.md "mention")
-
 ## <mark style="color:purple;">Definição</mark>
 
 ### Sólido
