@@ -1,7 +1,3 @@
----
-description: a
----
-
 # Lei Zero da Termodinâmica
 
 "Se dois corpos estão em equilíbrio térmico com um terceiro, eles estão em equilíbrio térmico entre si".&#x20;

@@ -1,6 +1,6 @@
 # Óptica
 
-## Conceitos Básicos
+## <mark style="color:purple;">Conceitos Básicos</mark>
 
 * **Raio de Luz** → Uma fonte de luz (sem limitações) emite infinitos raios de luz.
 * **Conjunto de Raios de Luz** -> Feixe de Luz
@@ -25,7 +25,7 @@
 ### Meio
 
 * Por onde a luz passa
-* **Opaco** → não vê e ==não propaga luz== → madeira
+* **Opaco** → não vê e <mark style="color:red;">não propaga luz</mark> → madeira
 * **Translúcido** → vê, sem nitidez → vidro fosco
 * **Transparente** → vê tudo → vidro, ar
 
@@ -50,4 +50,3 @@
 ### Absorção
 
 * O feixe de luz não passa, fica no meio 1.
-*

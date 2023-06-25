@@ -8,6 +8,8 @@
 >
 > [_**Dilatação volumétrica**_](dilatacao-e-contracao-termica.md#dilatacao-volumetrica)_**:**_ aumento do volume do corpo (três dimensões) → líquidos
 
+Obs.: $$\Delta\theta = \Delta T$$ (Um é a letra grega pra temperatura, o outro é o T de temperatura).
+
 ### <mark style="color:purple;">Dilatação Linear</mark>
 
 * Aumento de **uma** das dimensões do corpo
@@ -23,6 +25,7 @@
 
 * Razão entre a Dilatação Sofrida e o Valor Inicial das suas dimensões:
 * $$\frac{\Delta L}{L_{0}}=\alpha\times\Delta\theta$$
+* &#x20;$$\Delta\theta = \Delta T$$
 
 ### Dilatação Superficial
 
