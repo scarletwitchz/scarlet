@@ -2,7 +2,7 @@
 
 ## <mark style="color:purple;">Definição</mark>
 
-* O calor é a \[\[Energia Térmica]] em trânsito.
+* O calor é a [Energia Térmica](energia-termica.md) em trânsito.
 * Calor não pode estar "contido" em um corpo.
 * Calor acaba quando se atinge o equilíbrio térmico do sistema.
 * Medido em Joule (J) ou em caloria (cal). → 1 cal = 4,1868 J
@@ -39,7 +39,7 @@
 
 ## Calor Latente
 
-* relaciona: \[\[Estados Físicos ou Estados de Agregação da Matéria]]
+* relaciona: [Estados Físicos ou Estados de Agregação da Matéria](estados-fisicos-ou-estados-de-agregacao-da-materia.md)
 * se dá quando um corpo recebe calor, provocando mudança de estado físico
 * Ex.: gelo se transformando em água ao ser aquecido.
 

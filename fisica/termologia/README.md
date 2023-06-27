@@ -2,7 +2,7 @@
 
 ### <mark style="color:purple;">Definição e Conceitos Base</mark>
 
-* Ramo da física que estuda os fenômenos ligados à \[\[Energia Térmica]] → Pode ser analisada via estudo **macroscópico** ou **microscópico**
+* Ramo da física que estuda os fenômenos ligados à [Energia Térmica](energia-termica.md) → Pode ser analisada via estudo **macroscópico** ou **microscópico**
 
 > * **macroscópico**: aspectos globais do sistema (ex: volume, temperatura)&#x20;
 > * **microscópico**: aspectos que passam despercebidos (ex: energia das moléculas e suas interações)
