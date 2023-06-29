@@ -5,4 +5,6 @@
 * [Matemática](broken-reference)
 * [Física](broken-reference)
 * [História](broken-reference)
+* [Português](broken-reference)
+* [Geografia](broken-reference)
 * [<mark style="color:red;">Vestibulares</mark>](broken-reference)
