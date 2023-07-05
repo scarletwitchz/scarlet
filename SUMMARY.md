@@ -7,6 +7,7 @@
 
 ## Física
 
+* [Sistema Internacional de Unidades](fisica/sistema-internacional-de-unidades.md)
 * [Assuntos](fisica/assuntos.md)
 * [Termologia](fisica/termologia/README.md)
   * [Calor](fisica/termologia/calor.md)
