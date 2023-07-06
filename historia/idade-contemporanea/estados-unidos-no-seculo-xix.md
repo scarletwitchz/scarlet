@@ -9,13 +9,13 @@
 * Oregon: cedido
 * Texas, Novo México e Califórnia: tomados
 
-## Doutrina Monroe, "A América para os americanos"
+## <mark style="color:purple;">Doutrina Monroe</mark>, "A América para os americanos"
 
 * Criada pelo presidente James Monroe (1823)
 * EUA se mostra <mark style="color:red;">neutro</mark> pelos conflitos europeus, mas estes **não** devem "se meter" em assuntos do país, e eram contra a colonização dos europeus no continente americano.
 * Motivada pela ameaça da Santa Aliança
 
-## Destino Manifesto, "Máxima Expansão"
+## <mark style="color:purple;">Destino Manifesto</mark>, "Máxima Expansão"
 
 * "Justificativa da expansão para o Oeste e ataque aos mexicanos e indígenas"
 * Os EUA eram predestinados por Deus para conquistar novos territórios, povoar esses locais e formar uma grande nação.
