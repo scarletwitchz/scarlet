@@ -52,4 +52,3 @@
 * legislativo: congresso → câmara dos representantes e senado
 * judiciário: tribunal supremo
 
-***

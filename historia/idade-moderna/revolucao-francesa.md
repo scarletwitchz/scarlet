@@ -47,4 +47,3 @@
 * resistiram a golpes
 * <mark style="color:red;">Napoleão Bonaparte organiza golpe e toma o poder.</mark>
 
-***

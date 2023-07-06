@@ -5,4 +5,4 @@
 * [Idade Antiga](idade-antiga.md)
 * [Idade Média](idade-media.md)
 * [Idade Moderna](idade-moderna/)
-* [Idade Contemporânea](idade-contemporanea.md)
+* [Idade Contemporânea](idade-contemporanea/)

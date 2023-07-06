@@ -39,14 +39,14 @@
 * Expansão Marítima
 * Retomou o **Absolutismo** (antes barrado pela [Magna Carta](../conceitos-avulsos/magna-carta.md))
 
-***
+
 
 → **Maria I: Bloody Mary**
 
 * Executava muita gente!
 * Católica; perseguiu **Puritanos e Anglicanos**
 
-***
+
 
 → **Elizabeth I**
 
@@ -60,7 +60,7 @@
 * Anglicanismo
 * Praticamente sem concorrência → Problema pra Pequena Burguesia, mas bom pro Monopólio.
 
-***
+
 
 #### Dinastia Stuart
 
@@ -84,7 +84,7 @@
 
 <figure><img src="https://i.imgur.com/SDPNe5a.png" alt=""><figcaption></figcaption></figure>
 
-***
+
 
 → Carlos I (ainda Stuart)
 
@@ -94,7 +94,7 @@
 * Parlamento quer que o rei siga a [Magna Carta](../conceitos-avulsos/magna-carta.md), usando a [Bill of Rights](../conceitos-avulsos/bill-of-rights.md), então o rei fecha o Parlamento no "Grande Recesso" (1628-1640)
 * Escócia se rebela após o rei tentar unificar as igrejas e impor o Anglicanismo → O rei pede ajuda ao Parlamento → O parlamento se rebela e é fechado novamente. → Começa uma revolução liderada por **Oliver Cromwell.**
 
-***
+
 
 ## <mark style="color:purple;">Revolução Puritana</mark>
 
@@ -112,7 +112,7 @@ Cavaleiros vs. Cabeças Redondas&#x20;
 
 ![](https://i.imgur.com/YbBL0Cw.png)
 
-***
+
 
 ## <mark style="color:purple;">República de Cromwell</mark>
 
@@ -128,7 +128,7 @@ Cavaleiros vs. Cabeças Redondas&#x20;
 
 * Cromwell morre em 1658 → Seu filho é destituído em 1659 (não tinha a força do pai).
 
-***
+
 
 ## <mark style="color:purple;">Restauração Monárquica</mark>
 
@@ -148,7 +148,7 @@ Cavaleiros vs. Cabeças Redondas&#x20;
 * Copia modelo francês (Luís XIV)
 * Parlamento volta "brigado"
 
-***
+
 
 ## <mark style="color:purple;">Revolução Gloriosa</mark>
 
@@ -171,7 +171,7 @@ Cavaleiros vs. Cabeças Redondas&#x20;
 * Capitalismo
 * Três Poderes: Executivo, Legislativo e Judiciário.
 
-***
+
 
 ## <mark style="color:purple;">Saldo</mark>
 
@@ -180,4 +180,3 @@ Cavaleiros vs. Cabeças Redondas&#x20;
 * Vitórias contra Espanha e Holanda
 * Êxodo Rural e aumento de mão-de-obra
 
-***

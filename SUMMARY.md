@@ -9,6 +9,7 @@
 
 * [Sistema Internacional de Unidades](fisica/sistema-internacional-de-unidades.md)
 * [Assuntos](fisica/assuntos.md)
+* [Termodinâmica](fisica/termodinamica.md)
 * [Termologia](fisica/termologia/README.md)
   * [Calor](fisica/termologia/calor.md)
   * [Temperatura e Noções](fisica/termologia/temperatura-e-nocoes.md)
@@ -42,7 +43,8 @@
   * [Iluminismo e Liberalismo](historia/idade-moderna/iluminismo-e-liberalismo.md)
   * [Revolução Francesa](historia/idade-moderna/revolucao-francesa.md)
   * [Revoluções Inglesas](historia/idade-moderna/revolucoes-inglesas.md)
-* [Idade Contemporânea](historia/idade-contemporanea.md)
+* [Idade Contemporânea](historia/idade-contemporanea/README.md)
+  * [Estados Unidos no Século XIX](historia/idade-contemporanea/estados-unidos-no-seculo-xix.md)
 * [Conceitos Avulsos](historia/conceitos-avulsos/README.md)
   * [Ato de Navegação](historia/conceitos-avulsos/ato-de-navegacao.md)
   * [Cercamentos](historia/conceitos-avulsos/cercamentos.md)

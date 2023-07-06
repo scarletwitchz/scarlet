@@ -17,7 +17,7 @@
 
 > Qual é o número possível de anagramas para a palavra **ADVENTO**? $$n = P_{7} = 7! = 7\times6\times5! = 42\times120 = 5040$$
 
-***
+
 
 #### Com restrições
 
@@ -25,7 +25,7 @@
 
 <figure><img src="https://i.imgur.com/m5NVzoy.png" alt=""><figcaption></figcaption></figure>
 
-***
+
 
 ### Com Repetição
 
@@ -44,7 +44,7 @@
 
 $$P^2_{9} = \frac{9!}{2!} = \frac{9\times8\times7\times5\times4\times3\times{\cancel2!}}{{\cancel2!}} = 181440$$
 
-***
+
 
 #### <mark style="color:yellow;">Exemplo 2</mark>
 
@@ -68,4 +68,3 @@ $$PC_{n}=\frac{n!}{n} = (n-1)!$$
 
 $$PC_{n}=\frac{5!}{5}=4! = 24$$
 
-***

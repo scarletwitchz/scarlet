@@ -104,4 +104,3 @@
 * A favor da _não intervenção do estado na economia_ → se interferir, vai desbalancear as leis/economia → autoregulação via **"Mão Invisível"**
 * <mark style="color:red;">Livre Concorrência</mark>
 
-***
