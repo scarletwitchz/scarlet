@@ -61,23 +61,33 @@
 
 ***
 
-## Formação Política dos EUA&#x20;
+## <mark style="color:purple;">Formação Política dos EUA</mark>&#x20;
 
-### Partido Federalista
+#### Partido Federalista
 
 * Estados do Norte
 * Alexander Hamilton
 * Centralismo, Protecionismo, Abolicionismo
 
-### Partido Republicano
+#### Partido Republicano
 
 * Estados do Sul
 * Thomas Jefferson
 * Escravistas, Agrários, Livre-cambismo
 
-### Partido Democrata
+#### Partido Democrata
 
 * Estados do Oeste
 * Andrew Jackson
 * Igualitários e Individualistas
+
+### Guerra de Secessão ou Guerra Civil Americana (1861-1865)
+
+* Surge com divergências entre os estados nortistas e sulistas, principalmente em relação ao **escravismo**.
+* Antes havia o equilíbrio (sul escravista, norte abolicionista), mas a marcha para o oeste ameaçava esse equilíbrio.
+* **Compromisso do Missouri (1820):** Propôs 1 estado **antiescravista** e 1 **escravista** quando novos estados fossem incorporados.
+
+
+
+
 

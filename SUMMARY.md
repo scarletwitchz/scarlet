@@ -9,11 +9,10 @@
 
 * [Sistema Internacional de Unidades](fisica/sistema-internacional-de-unidades.md)
 * [Assuntos](fisica/assuntos.md)
-* [Termodinâmica](fisica/termodinamica.md)
 * [Termologia](fisica/termologia/README.md)
+  * [Termodinâmica](fisica/termologia/termodinamica.md)
   * [Calor](fisica/termologia/calor.md)
   * [Temperatura e Noções](fisica/termologia/temperatura-e-nocoes.md)
-  * [Lei Zero da Termodinâmica](fisica/termologia/lei-zero-da-termodinamica.md)
   * [Estudos dos Gases Perfeitos](fisica/termologia/estudos-dos-gases-perfeitos.md)
   * [Dilatação e Contração Térmica](fisica/termologia/dilatacao-e-contracao-termica.md)
   * [Energia Térmica](fisica/termologia/energia-termica.md)
@@ -24,6 +23,7 @@
 
 ## Matemática
 
+* [Números Notáveis](matematica/numeros-notaveis.md)
 * [Assuntos](matematica/assuntos.md)
 * [Análise Combinatória](matematica/analise-combinatoria/README.md)
   * [Permutação](matematica/analise-combinatoria/permutacao.md)

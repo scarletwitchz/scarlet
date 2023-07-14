@@ -5,7 +5,7 @@
 * **Comprimento** -> m (metro)
 * **Massa** -> kg (quilograma)
 * **Tempo, duração** -> s (segundo)
-* Corrente elétrica -> A (ampère)
+* **Corrente elétrica** -> A (ampère)
 * **Temperatura termodinâmica** -> K (kelvin)
 * **Quantidade de substância** -> mol (mol)
 * **Intensidade luminosa** -> cd (candela)

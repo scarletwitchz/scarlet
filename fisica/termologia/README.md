@@ -9,5 +9,5 @@
 
 * [Calor](calor.md)
 * [Estados Físicos ou Estados de Agregação da Matéria](estados-fisicos-ou-estados-de-agregacao-da-materia.md)
-* [Temperatura e Noções](temperatura-e-nocoes.md) → [Lei Zero da Termodinâmica](lei-zero-da-termodinamica.md) → [Escalas Termométricas](escalas-termometricas.md)
+* [Temperatura e Noções](temperatura-e-nocoes.md) → [Lei Zero da Termodinâmica](termodinamica.md#lei-zero-da-termodinamica) → [Escalas Termométricas](escalas-termometricas.md)
 * [Dilatação e Contração Térmica](dilatacao-e-contracao-termica.md)
