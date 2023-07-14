@@ -23,8 +23,8 @@
 
 ## Matemática
 
-* [Números Notáveis](matematica/numeros-notaveis.md)
 * [Assuntos](matematica/assuntos.md)
+* [Números Notáveis](matematica/numeros-notaveis.md)
 * [Análise Combinatória](matematica/analise-combinatoria/README.md)
   * [Permutação](matematica/analise-combinatoria/permutacao.md)
   * [Princípio Multiplicativo](matematica/analise-combinatoria/principio-multiplicativo.md)
@@ -61,7 +61,9 @@
 
 ## Geografia
 
-* [Pontos Cardeais e Colaterais](geografia/pontos-cardeais-e-colaterais.md)
+* [Conceitos Básicos](geografia/conceitos-basicos.md)
+* [Cartografia](geografia/cartografia/README.md)
+  * [Pontos Cardeais e Colaterais](geografia/cartografia/pontos-cardeais-e-colaterais.md)
 
 ## Português
 
