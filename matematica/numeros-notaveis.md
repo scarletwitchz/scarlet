@@ -4,10 +4,14 @@
 Sendo **≅** o mesmo que **aproximadamente**, temos os seguintes números que possam vir a ser importantes em concursos.
 {% endhint %}
 
+## Irracionais
+
 * Raiz de 2 **≅ 1,4**
 * Raiz de 3 **≅ 1,7**&#x20;
 * π (pi) **≅ 3,14**
 * e (número de euler) **≅ 2,71**
+
+## Potências
 
 ### Potências de 2&#x20;
 
