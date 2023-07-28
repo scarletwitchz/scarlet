@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/imagem_2023-07-27_214752573.png
+coverY: 0
+---
+
 # Polaridade das Moléculas
 
 * É a capacidade que as ligações possuem de atrair cargas elétricas.

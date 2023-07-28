@@ -82,8 +82,13 @@
 
 ## Biologia
 
+* [Reino Animalia](biologia/reino-animalia.md)
 * [Água e suas características](biologia/agua-e-suas-caracteristicas.md)
 
 ## Química
 
 * [Polaridade das Moléculas](quimica/polaridade-das-moleculas.md)
+
+## Filosofia
+
+* [Kant](filosofia/kant.md)
