@@ -8,12 +8,12 @@ Animais são organismos eucariontes, heterotróficos e pluricelulares que se mov
 
 ## Características relevantes durante a história evolutiva
 
-#### Multicelularidade
+### Multicelularidade
 
 * Permitiu o surgimento de todos os animais
 * Inicialmente, as células eram mais simples e pouco especializadas, o que foi evoluindo gradativamente até as mais complexas.
 
-#### Desenvolvimento Embrionário
+### Desenvolvimento Embrionário
 
 <div data-full-width="false">
 
