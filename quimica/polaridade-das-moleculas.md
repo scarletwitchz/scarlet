@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/imagem_2023-07-27_214752573.png
+cover: ../.gitbook/assets/imagem_2023-07-28_220132125 (2).png
 coverY: 0
 ---
 
