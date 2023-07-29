@@ -6,7 +6,7 @@ Animais são organismos eucariontes, heterotróficos e pluricelulares que se mov
   → 65% Animais Invertebrados \
   → 5% Animais Vertebrados
 
-### Características relevantes durante a história evolutiva
+## Características relevantes durante a história evolutiva
 
 #### Multicelularidade
 
