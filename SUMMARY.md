@@ -92,3 +92,15 @@
 ## Filosofia
 
 * [Kant](filosofia/kant.md)
+
+## Artes
+
+* [Arte na Idade Contemporânea](artes/arte-na-idade-contemporanea/README.md)
+  * [Neoclassicismo](artes/arte-na-idade-contemporanea/neoclassicismo.md)
+* [Arte na Idade Moderna](artes/arte-na-idade-moderna/README.md)
+  * [Barroco](artes/arte-na-idade-moderna/barroco.md)
+  * [Renascimento](artes/arte-na-idade-moderna/renascimento.md)
+* [Arte na Idade Média](artes/arte-na-idade-media/README.md)
+  * [Arte Gótica](artes/arte-na-idade-media/arte-gotica.md)
+  * [Arte Românica](artes/arte-na-idade-media/arte-romanica.md)
+  * [Arte Bizantina](artes/arte-na-idade-media/arte-bizantina.md)
