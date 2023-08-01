@@ -25,7 +25,7 @@
 * Brunelleschi: perspectiva nas catedrais → Basílica de São Lourenço
 * Masacchio: pintura realista
 * Botticelli: pintura suave e graciosa
-* da Vinci: anatomia, e pinturas como Monalisa (mistério no olhar) e 'A Última Ceia' → profundidade e luminosidade, sentimentos imprecisos → ==jogo de luz e sombra==
+* da Vinci: anatomia, e pinturas como Monalisa (mistério no olhar) e 'A Última Ceia' → profundidade e luminosidade, sentimentos imprecisos → **jogo de luz e sombra**
 * Michelangelo: Capela Sistina → pinturas religiosas e pintura greco-romana
 * Rafael: profundidade, geometria, simetria e equilíbrio
 * Escultura: jogo de luz e sombra, volume e realismo → David, de Michelangelo.
