@@ -26,7 +26,7 @@
 
 Reino > Filo > Classe > Ordem > Família > Gênero > Espécie → ReFiClOFaGE ‎‎ ‎ ‎ ‎&#x20;
 
-<figure><img src="https://i.imgur.com/kmb2hN6.png" alt=""><figcaption><p>Catrgorias Taxonômicas</p></figcaption></figure>
+<figure><img src="https://i.imgur.com/kmb2hN6.png" alt=""><figcaption><p>Catrgorias Taxonômicas do Ser Humano</p></figcaption></figure>
 
 ### Sistemas Naturais
 
