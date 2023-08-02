@@ -37,7 +37,7 @@ Animais são organismos eucariontes, heterotróficos e pluricelulares que se mov
 - Não se locomovem e possuem alta capacidade de regeneração 
 - **Coanócitos** → Realizam a filtração e digestão (intracelular) → 
 - Cavidade interna: **átrio**; água é eliminada pelo **ósculo** (“saída”)
-(FAZER FOTO) poro: entra água → átrio: água passa → ósculo: sai água
+- (FAZER FOTO) poro: entra água → átrio: água passa → ósculo: sai água
 
 
 # Animais Vertebrados
