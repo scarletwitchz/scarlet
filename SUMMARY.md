@@ -84,6 +84,9 @@
 
 ## Biologia
 
+* [Doenças](biologia/doencas/README.md)
+  * [Viroses](biologia/doencas/viroses.md)
+* [Vírus](biologia/virus.md)
 * [Reino Animalia](biologia/reino-animalia.md)
 * [Água e suas características](biologia/agua-e-suas-caracteristicas.md)
 
