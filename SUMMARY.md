@@ -84,6 +84,7 @@
 
 ## Biologia
 
+* [Sistemática](biologia/sistematica.md)
 * [Doenças](biologia/doencas/README.md)
   * [Viroses](biologia/doencas/viroses.md)
 * [Vírus](biologia/virus.md)
