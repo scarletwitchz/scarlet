@@ -1,5 +1,5 @@
 # Assuntos
 
 * [Termologia](termologia/)
-* [Óptica](optica.md)
+* [Óptica](optica/)
 * [Forças de Coesão](forcas-de-coesao.md)

@@ -18,7 +18,8 @@
   * [Energia Térmica](fisica/termologia/energia-termica.md)
   * [Estados Físicos ou Estados de Agregação da Matéria](fisica/termologia/estados-fisicos-ou-estados-de-agregacao-da-materia.md)
   * [Escalas Termométricas](fisica/termologia/escalas-termometricas.md)
-* [Óptica](fisica/optica.md)
+* [Óptica](fisica/optica/README.md)
+  * [Luz](fisica/optica/luz.md)
 * [Forças de Coesão](fisica/forcas-de-coesao.md)
 
 ## Matemática
@@ -61,6 +62,7 @@
 
 ## Geografia
 
+* [Geoo](geografia/geoo.md)
 * [Conceitos Básicos](geografia/conceitos-basicos.md)
 * [Cartografia](geografia/cartografia/README.md)
   * [Pontos Cardeais e Colaterais](geografia/cartografia/pontos-cardeais-e-colaterais.md)

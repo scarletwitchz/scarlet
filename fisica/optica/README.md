@@ -5,11 +5,6 @@
 * **Raio de Luz** → Uma fonte de luz (sem limitações) emite infinitos raios de luz.
 * **Conjunto de Raios de Luz** -> Feixe de Luz
 
-### Feixe de Luz
-
-* **Conjunto de Raios de Luz**
-* Podem ser: Convergente, Divergente e Paralelo
-
 ### Corpos
 
 * **Luminosos** → Fonte de Luz **Primária**: sol, vela
