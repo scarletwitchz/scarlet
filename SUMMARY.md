@@ -78,7 +78,9 @@
 * [Doenças](biologia/doencas/README.md)
   * [Viroses](biologia/doencas/viroses.md)
 * [Vírus](biologia/virus.md)
-* [Reino Animalia](biologia/reino-animalia.md)
+* [Reino Animalia](biologia/reino-animalia/README.md)
+  * [Poríferos](biologia/reino-animalia/poriferos.md)
+  * [Cnidários](biologia/reino-animalia/cnidarios.md)
 * [Água e suas características](biologia/agua-e-suas-caracteristicas.md)
 * [Cronograma Vestibular (A terminar)](biologia/cronograma-vestibular-a-terminar.md)
 
