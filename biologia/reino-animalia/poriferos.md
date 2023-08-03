@@ -4,7 +4,8 @@
 Funçāo: alimento para tartarugas, abrigo pra peixes e medicamentos contra AIDS
 {% endhint %}
 
-* **Esponjas**
+<figure><img src="../../.gitbook/assets/imagem_2023-08-03_174713021.png" alt="" width="316"><figcaption><p>Esponjas</p></figcaption></figure>
+
 * Aquáticos\
   → 98% Marinhos\
   → 2% Água Doce
@@ -15,7 +16,6 @@ Funçāo: alimento para tartarugas, abrigo pra peixes e medicamentos contra AIDS
 * Não se locomovem e possuem alta capacidade de regeneração
 * **Coanócitos** → Realizam a filtração e digestão (intracelular)
 * Cavidade interna: **átrio**; água é eliminada pelo **ósculo** (“saída”)
-* Poro: entra água → átrio: água passa → ósculo: sai água
 
 <div align="center">
 

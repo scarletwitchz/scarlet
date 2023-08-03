@@ -9,6 +9,8 @@ Animais são organismos eucariontes, heterotróficos e pluricelulares que se mov
   → 5% Animais Vertebrados
 * Todos os animais são **triblásticos** (3 folhetos embrionários), **exceto** os [Poríferos ](poriferos.md)e os [Cnidários](cnidarios.md), que são **diblásticos** (2 folhetos embrionários)
 
+<figure><img src="https://i.imgur.com/pSGKvnw.png" alt=""><figcaption></figcaption></figure>
+
 ### Multicelularidade
 
 * Permitiu o surgimento de todos os animais
@@ -23,6 +25,12 @@ Animais são organismos eucariontes, heterotróficos e pluricelulares que se mov
 
 
 <figure><img src="../../.gitbook/assets/imagem_2023-08-03_172038520.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Nos animais em que o blastóporo origina primeiro o **ânus**: temos <mark style="color:red;">**deuterostômios**</mark>
+
+Nos animais em que o blastóporo origina primeiro a **boca**: temos <mark style="color:red;">**protostômios**</mark>
+{% endhint %}
 
 ***
 
