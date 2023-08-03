@@ -31,7 +31,9 @@ Animais são organismos eucariontes, heterotróficos e pluricelulares que se mov
 
 * **Esponjas**
 
-> Funçāo: alimento para tartarugas, abrigo pra peixes e medicamentos contra AIDS
+Funçāo: alimento para tartarugas, abrigo pra peixes e medicamentos contra AIDS
+
+
 
 * Aquáticos\
   → 98% Marinhos\

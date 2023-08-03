@@ -7,8 +7,8 @@
 
 ## Física
 
-* [Sistema Internacional de Unidades](fisica/sistema-internacional-de-unidades.md)
 * [Assuntos](fisica/assuntos.md)
+* [Sistema Internacional de Unidades](fisica/sistema-internacional-de-unidades.md)
 * [Termologia](fisica/termologia/README.md)
   * [Termodinâmica](fisica/termologia/termodinamica.md)
   * [Calor](fisica/termologia/calor.md)
@@ -62,25 +62,15 @@
 
 ## Geografia
 
-* [Geoo](geografia/geoo.md)
+* [Assuntos](geografia/geoo.md)
 * [Conceitos Básicos](geografia/conceitos-basicos.md)
 * [Cartografia](geografia/cartografia/README.md)
   * [Pontos Cardeais e Colaterais](geografia/cartografia/pontos-cardeais-e-colaterais.md)
 
-## Português
+## Literatura
 
-* [Romantismo](portugues/romantismo.md)
-
-## Vestibulares
-
-* [ENEM](vestibulares/enem/README.md)
-  * [Estrutura da Prova](vestibulares/enem/estrutura-da-prova.md)
-* [UERJ](vestibulares/uerj/README.md)
-  * [Estrutura da Prova](vestibulares/uerj/estrutura-da-prova.md)
-* [USP](vestibulares/usp/README.md)
-  * [Estrutura da Prova](vestibulares/usp/estrutura-da-prova.md)
-* [UNICAMP](vestibulares/unicamp/README.md)
-  * [Estrutura da Prova](vestibulares/unicamp/estrutura-da-prova.md)
+* [Assuntos](literatura/assuntos.md)
+* [Romantismo](literatura/romantismo.md)
 
 ## Biologia
 
@@ -95,20 +85,34 @@
 
 ## Química
 
+* [Assuntos](quimica/assuntos.md)
 * [Polaridade das Moléculas](quimica/polaridade-das-moleculas.md)
 
 ## Filosofia
 
+* [Assuntos](filosofia/assuntos.md)
 * [Kant](filosofia/kant.md)
 
 ## Artes
 
-* [Arte na Idade Contemporânea](artes/arte-na-idade-contemporanea/README.md)
-  * [Neoclassicismo](artes/arte-na-idade-contemporanea/neoclassicismo.md)
-* [Arte na Idade Moderna](artes/arte-na-idade-moderna/README.md)
-  * [Barroco](artes/arte-na-idade-moderna/barroco.md)
-  * [Renascimento](artes/arte-na-idade-moderna/renascimento.md)
+* [Assuntos](artes/assuntos.md)
 * [Arte na Idade Média](artes/arte-na-idade-media/README.md)
   * [Arte Gótica](artes/arte-na-idade-media/arte-gotica.md)
   * [Arte Românica](artes/arte-na-idade-media/arte-romanica.md)
   * [Arte Bizantina](artes/arte-na-idade-media/arte-bizantina.md)
+* [Arte na Idade Moderna](artes/arte-na-idade-moderna/README.md)
+  * [Barroco](artes/arte-na-idade-moderna/barroco.md)
+  * [Renascimento](artes/arte-na-idade-moderna/renascimento.md)
+* [Arte na Idade Contemporânea](artes/arte-na-idade-contemporanea/README.md)
+  * [Neoclassicismo](artes/arte-na-idade-contemporanea/neoclassicismo.md)
+
+## Vestibulares
+
+* [ENEM](vestibulares/enem/README.md)
+  * [Estrutura da Prova](vestibulares/enem/estrutura-da-prova.md)
+* [UERJ](vestibulares/uerj/README.md)
+  * [Estrutura da Prova](vestibulares/uerj/estrutura-da-prova.md)
+* [USP](vestibulares/usp/README.md)
+  * [Estrutura da Prova](vestibulares/usp/estrutura-da-prova.md)
+* [UNICAMP](vestibulares/unicamp/README.md)
+  * [Estrutura da Prova](vestibulares/unicamp/estrutura-da-prova.md)
