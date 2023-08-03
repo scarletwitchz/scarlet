@@ -3,7 +3,6 @@
 ## 📌 Início
 
 * [Como usar](README.md)
-* [Créditos](inicio/creditos.md)
 
 ## Física
 
@@ -43,7 +42,7 @@
   * [Independência das 13 Colônias ou Revolução Americana](historia/idade-moderna/independencia-das-13-colonias-ou-revolucao-americana.md)
   * [Iluminismo e Liberalismo](historia/idade-moderna/iluminismo-e-liberalismo.md)
   * [Revolução Francesa](historia/idade-moderna/revolucao-francesa.md)
-  * [Revoluções Inglesas](historia/idade-moderna/revolucoes-inglesas.md)
+  * [⚔ Revoluções Inglesas](historia/idade-moderna/revolucoes-inglesas.md)
 * [Idade Contemporânea](historia/idade-contemporanea/README.md)
   * [Estados Unidos no Século XIX](historia/idade-contemporanea/estados-unidos-no-seculo-xix.md)
 * [Conceitos Avulsos](historia/conceitos-avulsos/README.md)
@@ -70,7 +69,7 @@
 ## Literatura
 
 * [Assuntos](literatura/assuntos.md)
-* [Romantismo](literatura/romantismo.md)
+* [Romantismo](portugues/romantismo.md)
 
 ## Biologia
 
