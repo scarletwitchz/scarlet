@@ -13,10 +13,11 @@
 
 ## Dengue
 
-* _**Agente**_: Flavivirus -
+* _**Agente**_: Flavivirus&#x20;
 * _**Contágio**_: picada do mosquito Aedes aegypti&#x20;
 * _**Afeta**_: tudo
-* _**Sintomas**_: Fraqueza, Dor, Febre _**Tratamento**_:&#x20;
+* _**Sintomas**_: Fraqueza, Dor, Febre&#x20;
+* _**Tratamento**_: -
 * _**Profilaxia**_: Acabar com focos de água parada.
 
 ***
