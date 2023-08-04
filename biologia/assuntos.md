@@ -1,4 +1,4 @@
-# Assuntos
+# ✨ Assuntos
 
 * [Sistemática](sistematica.md)
 * [Doenças](doencas/)

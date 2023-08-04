@@ -1,4 +1,4 @@
-# Assuntos
+# ✨ Assuntos
 
 * [Termologia](termologia/)
 * [Óptica](optica/)

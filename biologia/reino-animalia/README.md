@@ -7,7 +7,7 @@ Animais são organismos eucariontes, heterotróficos e pluricelulares que se mov
 * Distribuição (Seres Vivos)\
   → 65% Animais Invertebrados\
   → 5% Animais Vertebrados
-* Todos os animais são **triblásticos** (3 folhetos embrionários), **exceto** os [Poríferos ](poriferos.md)(que não têm nenhum tecido) e os [Cnidários](cnidarios.md), que são **diblásticos** (2 folhetos embrionários)
+* Todos os animais são **triblásticos** (3 folhetos embrionários), **exceto** os [Poríferos ](invertebrados/poriferos.md)(que não têm nenhum tecido) e os [Cnidários](invertebrados/cnidarios.md), que são **diblásticos** (2 folhetos embrionários)
 
 <figure><img src="https://i.imgur.com/pSGKvnw.png" alt=""><figcaption></figcaption></figure>
 
@@ -38,8 +38,8 @@ Nos animais em que o blastóporo origina primeiro a **boca**: temos <mark style=
 
 ## Animais Invertebrados
 
-* [Poríferos](poriferos.md)
-* [Cnidários](cnidarios.md)
+* [Poríferos](invertebrados/poriferos.md)
+* [Cnidários](invertebrados/cnidarios.md)
 
 ## Animais Vertebrados
 

@@ -1,4 +1,4 @@
-# Assuntos
+# ✨ Assuntos
 
 * [História do Brasil](historia-do-brasil.md)
 * [Pré-História](pre-historia.md)

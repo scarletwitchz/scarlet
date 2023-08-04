@@ -6,7 +6,7 @@
 
 ## Física
 
-* [Assuntos](fisica/assuntos.md)
+* [✨ Assuntos](fisica/assuntos.md)
 * [Sistema Internacional de Unidades](fisica/sistema-internacional-de-unidades.md)
 * [Termologia](fisica/termologia/README.md)
   * [Termodinâmica](fisica/termologia/termodinamica.md)
@@ -23,7 +23,7 @@
 
 ## Matemática
 
-* [Assuntos](matematica/assuntos.md)
+* [✨ Assuntos](matematica/assuntos.md)
 * [Números Notáveis](matematica/numeros-notaveis.md)
 * [Análise Combinatória](matematica/analise-combinatoria/README.md)
   * [Permutação](matematica/analise-combinatoria/permutacao.md)
@@ -33,7 +33,7 @@
 
 ## História
 
-* [Assuntos](historia/assuntos.md)
+* [✨ Assuntos](historia/assuntos.md)
 * [História do Brasil](historia/historia-do-brasil.md)
 * [Pré-História](historia/pre-historia.md)
 * [Idade Antiga](historia/idade-antiga.md)
@@ -61,19 +61,19 @@
 
 ## Geografia
 
-* [Assuntos](geografia/geoo.md)
+* [✨ Assuntos](geografia/geoo.md)
 * [Conceitos Básicos](geografia/conceitos-basicos.md)
 * [Cartografia](geografia/cartografia/README.md)
   * [Pontos Cardeais e Colaterais](geografia/cartografia/pontos-cardeais-e-colaterais.md)
 
 ## Literatura
 
-* [Assuntos](literatura/assuntos.md)
+* [✨ Assuntos](literatura/assuntos.md)
 * [Romantismo](portugues/romantismo.md)
 
 ## Biologia
 
-* [Assuntos](biologia/assuntos.md)
+* [✨ Assuntos](biologia/assuntos.md)
 * [Sistemática](biologia/sistematica.md)
 * [Doenças](biologia/doencas/README.md)
   * [Verminoses](biologia/doencas/verminoses.md)
@@ -82,24 +82,37 @@
   * [Viroses](biologia/doencas/viroses.md)
 * [Vírus](biologia/virus.md)
 * [Reino Animalia](biologia/reino-animalia/README.md)
-  * [Poríferos](biologia/reino-animalia/poriferos.md)
-  * [Cnidários](biologia/reino-animalia/cnidarios.md)
+  * [Invertebrados](biologia/reino-animalia/invertebrados/README.md)
+    * [Poríferos](biologia/reino-animalia/invertebrados/poriferos.md)
+    * [Cnidários](biologia/reino-animalia/invertebrados/cnidarios.md)
+    * [Platelmintos](biologia/reino-animalia/invertebrados/platelmintos.md)
+    * [Molusco](biologia/reino-animalia/invertebrados/molusco.md)
+    * [Anelídeo](biologia/reino-animalia/invertebrados/anelideo.md)
+    * [Nematódeos](biologia/reino-animalia/invertebrados/nematodeos.md)
+    * [Artrópodes](biologia/reino-animalia/invertebrados/artropodes.md)
+    * [Equinodermas](biologia/reino-animalia/invertebrados/equinodermas.md)
+  * [Vertebrados](biologia/reino-animalia/vertebrados/README.md)
+    * [Peixes](biologia/reino-animalia/vertebrados/peixes.md)
+    * [Anfíbios](biologia/reino-animalia/vertebrados/anfibios.md)
+    * [Répteis](biologia/reino-animalia/vertebrados/repteis.md)
+    * [Aves](biologia/reino-animalia/vertebrados/aves.md)
+    * [Mamíferos](biologia/reino-animalia/vertebrados/mamiferos.md)
 * [Água e suas características](biologia/agua-e-suas-caracteristicas.md)
 * [Cronograma Vestibular (A terminar)](biologia/cronograma-vestibular-a-terminar.md)
 
 ## Química
 
-* [Assuntos](quimica/assuntos.md)
+* [✨ Assuntos](quimica/assuntos.md)
 * [Polaridade das Moléculas](quimica/polaridade-das-moleculas.md)
 
 ## Filosofia
 
-* [Assuntos](filosofia/assuntos.md)
+* [✨ Assuntos](filosofia/assuntos.md)
 * [Kant](filosofia/kant.md)
 
 ## Artes
 
-* [Assuntos](artes/assuntos.md)
+* [✨ Assuntos](artes/assuntos.md)
 * [Arte na Idade Média](artes/arte-na-idade-media/README.md)
   * [Arte Gótica](artes/arte-na-idade-media/arte-gotica.md)
   * [Arte Românica](artes/arte-na-idade-media/arte-romanica.md)

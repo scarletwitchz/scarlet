@@ -34,4 +34,4 @@
 
 <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>A Última Ceia, Leonardo da Vinci</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="188"><figcaption><p>David, Michelangelo</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="188"><figcaption><p>David, Michelangelo</p></figcaption></figure>

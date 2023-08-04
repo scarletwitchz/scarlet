@@ -1,3 +1,3 @@
-# Assuntos
+# ✨ Assuntos
 
 * [Kant](kant.md)

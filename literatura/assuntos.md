@@ -1,3 +1,3 @@
-# Assuntos
+# ✨ Assuntos
 
 * [Romantismo](../portugues/romantismo.md)
