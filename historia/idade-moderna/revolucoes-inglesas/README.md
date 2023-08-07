@@ -6,12 +6,12 @@
 
 ## <mark style="color:purple;">Antecedentes</mark>
 
-* Contexto do [Antigo Regime](../conceitos-avulsos/antigo-regime.md)
-* **1060**: os [Normandos ](../conceitos-avulsos/normandos.md)invadiram as Ilhas Britânicas com Guilherme, o Conquistador, na [Batalha de Hastings](../conceitos-avulsos/batalha-de-hastings.md)
+* Contexto do [Antigo Regime](antigo-regime.md)
+* **1060**: os [Normandos ](normandos.md)invadiram as Ilhas Britânicas com Guilherme, o Conquistador, na [Batalha de Hastings](batalha-de-hastings.md)
 * **1154**: Dinastia Angevina \
   → **Henrique II**: cria impostos para a nobreza e leis válidas em toda Grã-Bretanha, por meio de tribunais com juízes. \
   → **Ricardo I** (Coração de Leão): participa da Terceira Cruzada.
-* 1215: [Magna Carta](../conceitos-avulsos/magna-carta.md)
+* 1215: [Magna Carta](magna-carta.md)
 
 ## Conflitos
 
@@ -37,7 +37,7 @@
 * Instaura o **Anglicanismo** → Religião Oficial, não obrigatória
 * **Liberdade Religiosa**
 * Expansão Marítima
-* Retomou o **Absolutismo** (antes barrado pela [Magna Carta](../conceitos-avulsos/magna-carta.md))
+* Retomou o **Absolutismo** (antes barrado pela [Magna Carta](magna-carta.md))
 
 ***
 
@@ -52,11 +52,11 @@
 
 * 1558 - 1603
 * **Liberdade Religiosa**
-* Marinha Inglesa em foco e **Pirataria Legalizada** por meio da [Lei de Corso](../conceitos-avulsos/lei-de-corso.md)
+* Marinha Inglesa em foco e **Pirataria Legalizada** por meio da [Lei de Corso](lei-de-corso.md)
 * Companhia das Índias Orientais
 * Mercantilismo
 * Exploração da América e Colônias Espanholas
-* Teve apoio da Burguesia e [Gentry](../conceitos-avulsos/gentry.md)
+* Teve apoio da Burguesia e [Gentry](gentry.md)
 * Anglicanismo
 * Praticamente sem concorrência → Problema pra Pequena Burguesia, mas bom pro Monopólio.
 
@@ -68,15 +68,15 @@
 
 * **Entra por ser primo de Elizabeth**
 * Rei da Escócia e unifica Escócia, Inglaterra e Gales (torna-se Grã-Bretanha)
-* [Direito Divino dos Reis](../conceitos-avulsos/direito-divino-dos-reis.md) volta.
+* [Direito Divino dos Reis](direito-divino-dos-reis.md) volta.
 * Dá preferência à Nobreza Feudal; Burguesia fica descontente.
-* [<mark style="color:green;">Câmara dos Comuns</mark>](../conceitos-avulsos/camaras.md) adota medidas contrárias ao rei e favorece a [<mark style="color:orange;">Câmara dos Lordes</mark>](../conceitos-avulsos/camaras.md)
+* [<mark style="color:green;">Câmara dos Comuns</mark>](camaras.md) adota medidas contrárias ao rei e favorece a [<mark style="color:orange;">Câmara dos Lordes</mark>](camaras.md)
 * Rei persegue os Puritanos e Católicos
 * Confilto Monarquia vs. Parlamento se intensifica.
 
-★[ Corporações de Ofício ou Guildas](../conceitos-avulsos/corporacoes-de-oficio-ou-guildas.md)
+★[ Corporações de Ofício ou Guildas](corporacoes-de-oficio-ou-guildas.md)
 
-★ [Cercamentos](../conceitos-avulsos/cercamentos.md)
+★ [Cercamentos](cercamentos.md)
 
 #### Sociedade Inglesa
 
@@ -91,7 +91,7 @@
 * Aumenta os impostos e institui o Ship Money (imposto em desuso)
 * Realiza pena de morte contra inimigos políticos
 * Gasta com guerras inúteis
-* Parlamento quer que o rei siga a [Magna Carta](../conceitos-avulsos/magna-carta.md), usando a [Bill of Rights](../conceitos-avulsos/bill-of-rights.md), então o rei fecha o Parlamento no "Grande Recesso" (1628-1640)
+* Parlamento quer que o rei siga a [Magna Carta](magna-carta.md), usando a [Bill of Rights](bill-of-rights.md), então o rei fecha o Parlamento no "Grande Recesso" (1628-1640)
 * Escócia se rebela após o rei tentar unificar as igrejas e impor o Anglicanismo → O rei pede ajuda ao Parlamento → O parlamento se rebela e é fechado novamente. → Começa uma revolução liderada por **Oliver Cromwell.**
 
 ***
@@ -99,7 +99,7 @@
 ## <mark style="color:purple;">Revolução Puritana</mark>
 
 * 1642 - 1649 ("Guerra Civil")
-* **Grupos:** \
+* **Grupos**\
   → **Diggers** ("Socialistas Agrários Radicais"): protestantes, donos de grandes terras, queriam o **fim da propriedade privada (só as terras)** e queriam uma reforma agrária. \
   → **Levellers**: donos de pequenas terras, católicos, queriam direitos iguais e o fim dos privilégios feudais.
 
@@ -124,7 +124,7 @@ Cavaleiros vs. Cabeças Redondas&#x20;
 * Inglaterra + Gales + Irlanda + Escócia = Comunidade Britânica
 * Igreja e Nobreza não puritana tiveram as terras confiscadas.
 
-★ [Ato de Navegação](../conceitos-avulsos/ato-de-navegacao.md) → Prejudica muito a Holanda, que era potência marítima forte → Guerra Anglo-Holandesa → Cromwell fecha o Parlamento por "medida de segurança".
+★ [Ato de Navegação](ato-de-navegacao.md) → Prejudica muito a Holanda, que era potência marítima forte → Guerra Anglo-Holandesa → Cromwell fecha o Parlamento por "medida de segurança".
 
 * Cromwell morre em 1658 → Seu filho é destituído em 1659 (não tinha a força do pai).
 
@@ -164,7 +164,7 @@ Cavaleiros vs. Cabeças Redondas&#x20;
 
 * Protestante
 * Casado com Maria Stuart
-* Assina a[ Bill of Rights](../conceitos-avulsos/bill-of-rights.md)
+* Assina a[ Bill of Rights](bill-of-rights.md)
 * Liberdade de Imprensa, Liberalismo
 * Tolerância Religiosa, menos aos católicos (Toleration Act)
 * Fim do Absolutismo → **Monarquia Parlamentar**

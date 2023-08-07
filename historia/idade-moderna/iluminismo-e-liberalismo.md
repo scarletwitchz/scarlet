@@ -3,7 +3,7 @@
 ## Características Gerais - <mark style="color:purple;">Iluminismo</mark>
 
 * Iluminismo, Século das Luzes ou Esclarecimento
-* Crítica ao [Antigo Regime ](../conceitos-avulsos/antigo-regime.md)em seu: tradicionalismo, religião, política, intervenção do Estado/Igreja na economia e na vida das pessoas. → principalmente contra [Direito Divino dos Reis](../conceitos-avulsos/direito-divino-dos-reis.md)
+* Crítica ao [Antigo Regime ](revolucoes-inglesas/antigo-regime.md)em seu: tradicionalismo, religião, política, intervenção do Estado/Igreja na economia e na vida das pessoas. → principalmente contra [Direito Divino dos Reis](revolucoes-inglesas/direito-divino-dos-reis.md)
 * Valorização do Indivíduo
 * **Estado laico** → sem religião definida
 * **Igualdade Jurídica** → todo mundo é igual perante a lei
@@ -83,7 +83,7 @@
 
 ### Liberalismo Político
 
-* Critica o [Direito Divino dos Reis](../conceitos-avulsos/direito-divino-dos-reis.md)
+* Critica o [Direito Divino dos Reis](revolucoes-inglesas/direito-divino-dos-reis.md)
 * Luta pela democracia/poder de escolha para o povo
 * John Locke
 

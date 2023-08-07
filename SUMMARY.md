@@ -2,7 +2,8 @@
 
 ## 📌 Início
 
-* [Como usar](README.md)
+* [Mudanças Recentes](README.md)
+* [Assuntos](<README (1).md>)
 
 ## Física
 
@@ -42,26 +43,28 @@
   * [Independência das 13 Colônias ou Revolução Americana](historia/idade-moderna/independencia-das-13-colonias-ou-revolucao-americana.md)
   * [Iluminismo e Liberalismo](historia/idade-moderna/iluminismo-e-liberalismo.md)
   * [Revolução Francesa](historia/idade-moderna/revolucao-francesa.md)
-  * [⚔ Revoluções Inglesas](historia/idade-moderna/revolucoes-inglesas.md)
+  * [⚔ Revoluções Inglesas](historia/idade-moderna/revolucoes-inglesas/README.md)
+    * [Antigo Regime](historia/idade-moderna/revolucoes-inglesas/antigo-regime.md)
+    * [Normandos](historia/idade-moderna/revolucoes-inglesas/normandos.md)
+    * [Batalha de Hastings](historia/idade-moderna/revolucoes-inglesas/batalha-de-hastings.md)
+    * [Magna Carta](historia/idade-moderna/revolucoes-inglesas/magna-carta.md)
+    * [Lei de Corso](historia/idade-moderna/revolucoes-inglesas/lei-de-corso.md)
+    * [Gentry](historia/idade-moderna/revolucoes-inglesas/gentry.md)
+    * [Direito Divino dos Reis](historia/idade-moderna/revolucoes-inglesas/direito-divino-dos-reis.md)
+    * [Câmaras](historia/idade-moderna/revolucoes-inglesas/camaras.md)
+    * [Corporações de Ofício ou Guildas](historia/idade-moderna/revolucoes-inglesas/corporacoes-de-oficio-ou-guildas.md)
+    * [Cercamentos](historia/idade-moderna/revolucoes-inglesas/cercamentos.md)
+    * [Bill of Rights](historia/idade-moderna/revolucoes-inglesas/bill-of-rights.md)
+    * [Ato de Navegação](historia/idade-moderna/revolucoes-inglesas/ato-de-navegacao.md)
 * [Idade Contemporânea](historia/idade-contemporanea/README.md)
   * [Estados Unidos no Século XIX](historia/idade-contemporanea/estados-unidos-no-seculo-xix.md)
-* [Conceitos Avulsos](historia/conceitos-avulsos/README.md)
-  * [Ato de Navegação](historia/conceitos-avulsos/ato-de-navegacao.md)
-  * [Cercamentos](historia/conceitos-avulsos/cercamentos.md)
-  * [Corporações de Ofício ou Guildas](historia/conceitos-avulsos/corporacoes-de-oficio-ou-guildas.md)
-  * [Câmaras](historia/conceitos-avulsos/camaras.md)
-  * [Gentry](historia/conceitos-avulsos/gentry.md)
-  * [Lei de Corso](historia/conceitos-avulsos/lei-de-corso.md)
-  * [Magna Carta](historia/conceitos-avulsos/magna-carta.md)
-  * [Antigo Regime](historia/conceitos-avulsos/antigo-regime.md)
-  * [Direito Divino dos Reis](historia/conceitos-avulsos/direito-divino-dos-reis.md)
-  * [Batalha de Hastings](historia/conceitos-avulsos/batalha-de-hastings.md)
-  * [Bill of Rights](historia/conceitos-avulsos/bill-of-rights.md)
-  * [Normandos](historia/conceitos-avulsos/normandos.md)
 
 ## Geografia
 
 * [✨ Assuntos](geografia/geoo.md)
+* [Urbanização](geografia/urbanizacao/README.md)
+  * [Conurbação](geografia/urbanizacao/conurbacao.md)
+  * [Êxodo Rural](geografia/urbanizacao/exodo-rural.md)
 * [Conceitos Básicos](geografia/conceitos-basicos.md)
 * [Cartografia](geografia/cartografia/README.md)
   * [Pontos Cardeais e Colaterais](geografia/cartografia/pontos-cardeais-e-colaterais.md)

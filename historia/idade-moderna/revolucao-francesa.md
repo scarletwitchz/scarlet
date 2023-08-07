@@ -5,7 +5,7 @@
 * 1789 - 1799
 * Guerra dos Sete Anos
 * [Iluminismo e Liberalismo](iluminismo-e-liberalismo.md)
-* Vontade de acabar com as ideias do [Antigo Regime](../conceitos-avulsos/antigo-regime.md) e os privilégios aristocráticos
+* Vontade de acabar com as ideias do [Antigo Regime](revolucoes-inglesas/antigo-regime.md) e os privilégios aristocráticos
 * [Independência das 13 Colônias ou Revolução Americana](independencia-das-13-colonias-ou-revolucao-americana.md)
 * Insatisfação com a crise econômica e política do fim do século XVIII
 
@@ -47,3 +47,4 @@
 * resistiram a golpes
 * <mark style="color:red;">Napoleão Bonaparte organiza golpe e toma o poder.</mark>
 
+***
