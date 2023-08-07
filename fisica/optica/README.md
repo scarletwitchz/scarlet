@@ -1,3 +1,22 @@
+---
+cover: https://cdn.europosters.eu/image/750/posters/pink-floyd-dark-side-i30715.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Óptica
 
 ## <mark style="color:purple;">Conceitos Básicos</mark>

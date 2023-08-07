@@ -1,3 +1,23 @@
+---
+cover: >-
+  https://s1.static.brasilescola.uol.com.br/be/conteudo/images/termometro-5c3e0e41d5615.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Termologia
 
 ### <mark style="color:purple;">Definição e Conceitos Base</mark>

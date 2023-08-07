@@ -1,3 +1,23 @@
+---
+cover: >-
+  https://www.gov.br/inmetro/pt-br/centrais-de-conteudo/noticias/tabela-atualizada-de-unidades-de-base-do-si/si-destaque.png/@@images/e3ab692f-320e-4622-97f4-039f8a1c1a8f.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Sistema Internacional de Unidades
 
 ## Gerais
