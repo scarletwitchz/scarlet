@@ -60,7 +60,7 @@
 * 1712 - 1778
 * Críticas à propriedade privada → ela seria a causa das desigualdades
 * Estado democrático e republicano
-* [Revolução Francesa](../idade-contemporanea/revolucao-francesa.md)
+* [Revolução Francesa](revolucao-francesa.md)
 * "O ser humano nasce bom, a sociedade o corrompe" → O Bom Selvagem
 * Contrato Social, sem Jusnaturalismo. → Só direito à Liberdade
 * Educação básica e gratuita para a população

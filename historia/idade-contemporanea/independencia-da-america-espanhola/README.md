@@ -1,3 +1,23 @@
+---
+cover: >-
+  https://noticiasconcursos.com.br/wp-content/uploads/2020/12/noticiasconcursos.com.br-enem-independencia-da-america-espanhola-independencia-da-america-espanhola-scaled.jpeg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Independência da América Espanhola
 
 ## Período
@@ -8,9 +28,9 @@
 
 * **Estopim:** Invasão Napoleônica na Península Ibérica (1807)
 * Ao passo que as colônias proclamavam a independência, o <mark style="color:red;">**mercantilismo acabava**</mark> (pois o colonialismo era um dos pontos centrais deste sistema) \
-  \-> Logo, o [Antigo Regime](../idade-moderna/revolucoes-inglesas/antigo-regime.md) ia sendo deixado de lado aos poucos.&#x20;
+  \-> Logo, o [Antigo Regime](../../idade-moderna/revolucoes-inglesas/antigo-regime.md) ia sendo deixado de lado aos poucos.&#x20;
 
-## Grupos Sociais (Antes da Independência)
+## Grupos Sociais (Antes das Independências)
 
 * Cerca de 22 milhões de pessoas
 
@@ -44,10 +64,10 @@ Obs$$^2$$.: Chapetones tinham privilégios que os colocavam acima dos Criollos&#
 
 ## Fatores motivadores da Independência
 
-* Difusão do [Iluminismo](../idade-moderna/iluminismo-e-liberalismo.md) e suas ideias
+* Difusão do [Iluminismo](../../idade-moderna/iluminismo-e-liberalismo.md) e suas ideias
 * Revolução Industrial
-* [Independência dos EUA](../idade-moderna/independencia-das-13-colonias-ou-revolucao-americana.md)
-* [Revolução Francesa](revolucao-francesa.md)
+* [Independência dos EUA](../../idade-moderna/independencia-das-13-colonias-ou-revolucao-americana.md)
+* [Revolução Francesa](../../idade-moderna/revolucao-francesa.md)
 * Expansão Napoleônica
 * Revoltas populares locais
 * Ambição dos Criollos
@@ -55,7 +75,7 @@ Obs$$^2$$.: Chapetones tinham privilégios que os colocavam acima dos Criollos&#
 ### Expansão Napoleônica
 
 * O governo espanhol estava preocupado demais com a invasão iminente de Napoleão na Península Ibérica. Logo, não poderia cuidar 100% das colônias.
-* Foi uma oportunidade perfeita pra revolução colonial -> Elite criolla contestou o poder monárquico espanhol e fundou **juntas governativas.**
+* Foi uma oportunidade perfeita pra revolução colonial -> Quando o irmão de Napoleão toma o trono espanhol, a elite criolla contestou o poder monárquico espanhol e fundou **juntas governativas.**
 
 ### Independência dos EUA
 
@@ -79,13 +99,7 @@ Obs$$^2$$.: Chapetones tinham privilégios que os colocavam acima dos Criollos&#
 \-> Os Criollos lideraram e o povo formou um **exército revolucionário** \
 \-> Chapetones representavam a colônia, logo, tentaram combater o processo de independência
 
-## Independência do México
+***
 
-* Rebelião iniciada no vice-reinado da Nova Espanha comandada pelos padres **Hidalgo** e **Morelos**. (1810) \
-  \-> Apoiada pela maioria dos mexicanos (indígenas, pobres, mestiços, camponeses) \
-  \-> Queriam emancipação política e o fim da escravidão. \
-  \-> Palácio do vice-reinado e propriedades criollas sofreram invasões e a elite criolla foi capturada (comandava os cabildos).&#x20;
-* Padre Hidalgo morto pelo exército (1811)
-
-
+<mark style="color:yellow;">Ver também</mark>: [Independência do Méxic](independencia-do-mexico.md)[o](independencia-do-mexico.md),&#x20;
 

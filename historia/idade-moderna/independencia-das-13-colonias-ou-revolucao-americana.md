@@ -45,7 +45,7 @@ description: Fazer aprofundamento
 
 ## Consequências
 
-* Motivação para a [Revolução Francesa](../idade-contemporanea/revolucao-francesa.md)
+* Motivação para a [Revolução Francesa](revolucao-francesa.md)
 * Expansão territorial dos Estados Unidos
 
 ### Constituição EUA

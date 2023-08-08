@@ -56,8 +56,9 @@
     * [Bill of Rights](historia/idade-moderna/revolucoes-inglesas/bill-of-rights.md)
     * [Ato de Navegação](historia/idade-moderna/revolucoes-inglesas/ato-de-navegacao.md)
 * [Idade Contemporânea](historia/idade-contemporanea/README.md)
-  * [Revolução Francesa](historia/idade-contemporanea/revolucao-francesa.md)
-  * [Independência da América Espanhola](historia/idade-contemporanea/independencia-da-america-espanhola.md)
+  * [Revolução Francesa](historia/idade-moderna/revolucao-francesa.md)
+  * [Independência da América Espanhola](historia/idade-contemporanea/independencia-da-america-espanhola/README.md)
+    * [Independência do México](historia/idade-contemporanea/independencia-da-america-espanhola/independencia-do-mexico.md)
   * [Estados Unidos no Século XIX](historia/idade-contemporanea/estados-unidos-no-seculo-xix.md)
 
 ## Geografia
