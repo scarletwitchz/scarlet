@@ -2,9 +2,11 @@
 
 ## Cheque as mudanças recentes abaixo.
 
-
+[Mudanças Recentes](./)
 
 ## Clique nos assuntos abaixo para ser redirecionado.&#x20;
+
+(Tudo que estiver em Rosa é um link clicável!)
 
 * [Física](broken-reference)
 * [Matemática](broken-reference)

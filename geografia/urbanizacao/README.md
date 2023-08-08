@@ -23,11 +23,16 @@ layout:
 
 Transforma paisagens naturais/rurais em unidades urbanas, enquanto ocorre um [Êxodo Rural](exodo-rural.md) em paralelo.
 
+## Municípios
+
+* Menor unidade político-administrativa com governo e jurisdição próprias.
+
 ## Cidades
 
 * Cidades existem desde a Antiguidade (ex.: Babilônia) -> eram centros de poder e negócios.
 * Elas **perdem** importância na Idade Média -> desconcentração de poder do feudalismo
 * Elas **ganham** importânica na Era Capitalista -> centros de negócios novamente.
+* São a sede e área urbana do [Município](./#municipios), onde também se encontram os órgãos públicos.
 
 ## População Urbana
 
@@ -84,3 +89,6 @@ Transforma paisagens naturais/rurais em unidades urbanas, enquanto ocorre um [Ê
 * Cidade Global ≠ Megacidade (Precisam ter 10 milhões de habitantes ou mais, mas não são necessariamente mundialmente relevantes)
 * São classificadas em Alfa++ (NY), Alfa+ (Tóquio), Alfa (SP), Alfa- (Buenos Aires), Beta (RJ) e Gama -> Tudo depende de Economia e outros critérios socioculturais.
 
+***
+
+<mark style="color:yellow;">Ver Também:</mark> [Urbanização no Brasil](urbanizacao-no-brasil.md)
