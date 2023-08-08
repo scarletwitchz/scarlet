@@ -2,8 +2,8 @@
 
 ## 📌 Início
 
-* [Mudanças Recentes](README.md)
-* [Assuntos](<README (1).md>)
+* [Assuntos](README.md)
+  * [Mudanças Recentes](inicio/readme/mudancas-recentes.md)
 
 ## Física
 
