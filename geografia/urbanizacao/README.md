@@ -34,6 +34,9 @@ Transforma paisagens naturais/rurais em unidades urbanas, enquanto ocorre um [Ê
 * Em 2008, a população urbana mundial **ultrapassou** a rural \
   \-> 2018: 55% Urbana; Menos urbanizadas eram África (42,5%) e Ásia (49,9%)
 
+★ O que faz uma pessoa integrada à sociedade capitalista é a condição monetária/disponibilidade financeira, e não o fato de ela viver ou não em ambientes urbanos. \
+\-> Ex.: Mais inserido está um dono de chácara do que um morador de rua na Av. Brasil.&#x20;
+
 ### Motivos para a Migração
 
 * Más condições de vida rural, oferta de emprego na zona urbana...
@@ -71,6 +74,13 @@ Transforma paisagens naturais/rurais em unidades urbanas, enquanto ocorre um [Ê
 ## Rede Urbana
 
 * É uma "[Aglomeração Urbana](./#aglomeracao-urbana)" em escala mais larga.
-* As redes urbanas dos países desenvolvidos são "densas e articuladas", por causa da economia diversificada, industrialização, urbanização, transportes...
+* As redes urbanas dos países desenvolvidos são "densas e articuladas", por causa da economia diversificada, industrialização, urbanização, transportes... -> geralmente ficam em áreas onde [megalópoles](./#megalopole) já se encontram (costa oeste dos EUA, SP...).
 * Em países subdesenvolvidos é desarticulada.
+
+### Cidades Globais
+
+* Metrópoles mundiais. São centros de influência internacional. Nelas, há grande movimentação financeira, escritórios de empresas renomadas e uma grande gama de serviços.
+* Elas ocupariam o topo da "hierarquia urbana"
+* Cidade Global ≠ Megacidade (Precisam ter 10 milhões de habitantes ou mais, mas não são necessariamente mundialmente relevantes)
+* São classificadas em Alfa++ (NY), Alfa+ (Tóquio), Alfa (SP), Alfa- (Buenos Aires), Beta (RJ) e Gama -> Tudo depende de Economia e outros critérios socioculturais.
 
