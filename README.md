@@ -2,7 +2,7 @@
 
 ## Cheque as mudanças recentes abaixo.
 
-[Mudanças Recentes](inicio/readme/mudancas-recentes.md)
+[Mudanças Recentes](<README (1).md>)
 
 ## Clique nos assuntos abaixo para ser redirecionado.&#x20;
 

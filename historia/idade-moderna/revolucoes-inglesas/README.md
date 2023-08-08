@@ -1,6 +1,6 @@
 # ⚔ Revoluções Inglesas
 
-### Período
+## Período
 
 1642-1689
 

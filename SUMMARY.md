@@ -3,7 +3,7 @@
 ## 📌 Início
 
 * [Assuntos](README.md)
-  * [Mudanças Recentes](inicio/readme/mudancas-recentes.md)
+  * [Mudanças Recentes](<README (1).md>)
 
 ## Física
 
@@ -42,7 +42,6 @@
 * [Idade Moderna](historia/idade-moderna/README.md)
   * [Independência das 13 Colônias ou Revolução Americana](historia/idade-moderna/independencia-das-13-colonias-ou-revolucao-americana.md)
   * [Iluminismo e Liberalismo](historia/idade-moderna/iluminismo-e-liberalismo.md)
-  * [Revolução Francesa](historia/idade-moderna/revolucao-francesa.md)
   * [⚔ Revoluções Inglesas](historia/idade-moderna/revolucoes-inglesas/README.md)
     * [Antigo Regime](historia/idade-moderna/revolucoes-inglesas/antigo-regime.md)
     * [Normandos](historia/idade-moderna/revolucoes-inglesas/normandos.md)
@@ -57,6 +56,8 @@
     * [Bill of Rights](historia/idade-moderna/revolucoes-inglesas/bill-of-rights.md)
     * [Ato de Navegação](historia/idade-moderna/revolucoes-inglesas/ato-de-navegacao.md)
 * [Idade Contemporânea](historia/idade-contemporanea/README.md)
+  * [Revolução Francesa](historia/idade-contemporanea/revolucao-francesa.md)
+  * [Independência da América Espanhola](historia/idade-contemporanea/independencia-da-america-espanhola.md)
   * [Estados Unidos no Século XIX](historia/idade-contemporanea/estados-unidos-no-seculo-xix.md)
 
 ## Geografia

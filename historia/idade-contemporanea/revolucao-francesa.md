@@ -4,9 +4,9 @@
 
 * 1789 - 1799
 * Guerra dos Sete Anos
-* [Iluminismo e Liberalismo](iluminismo-e-liberalismo.md)
-* Vontade de acabar com as ideias do [Antigo Regime](revolucoes-inglesas/antigo-regime.md) e os privilégios aristocráticos
-* [Independência das 13 Colônias ou Revolução Americana](independencia-das-13-colonias-ou-revolucao-americana.md)
+* [Iluminismo e Liberalismo](../idade-moderna/iluminismo-e-liberalismo.md)
+* Vontade de acabar com as ideias do [Antigo Regime](../idade-moderna/revolucoes-inglesas/antigo-regime.md) e os privilégios aristocráticos
+* [Independência das 13 Colônias ou Revolução Americana](../idade-moderna/independencia-das-13-colonias-ou-revolucao-americana.md)
 * Insatisfação com a crise econômica e política do fim do século XVIII
 
 <figure><img src="https://i.imgur.com/KOFMuh6.png" alt="" width="375"><figcaption><p>Pirâmide Social da França Pré-Revolucionária</p></figcaption></figure>
@@ -20,7 +20,7 @@
 ### Início: Assembleia Constituinte e Legislativa
 
 * Constituição
-* Declaração dos Direitos do Homem e do Cidadão → todos iguais perante a lei → ideais do [Iluminismo e Liberalismo](iluminismo-e-liberalismo.md)
+* Declaração dos Direitos do Homem e do Cidadão → todos iguais perante a lei → ideais do [Iluminismo e Liberalismo](../idade-moderna/iluminismo-e-liberalismo.md)
 * Declaração dos Direitos do Mulher e da Cidadã → <mark style="color:red;">igualdade entre sexos</mark>
 * nobreza e clero fogem da França → orquestram contrarrevolta
 * assim que a constituição é promulgada (1791) → vira monarquia constitucional (rei obedece lei) e se cria a Assembleia Nacional Legislativa

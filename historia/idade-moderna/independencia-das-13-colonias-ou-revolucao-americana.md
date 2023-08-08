@@ -1,3 +1,7 @@
+---
+description: Fazer aprofundamento
+---
+
 # Independência das 13 Colônias ou Revolução Americana
 
 ## Antecedentes
@@ -15,11 +19,11 @@
 
 #### Norte
 
-→ Protestantes europeus → Colônia de Povoamento → "Nova Inglaterra"
+&#x20;Protestantes europeus → Colônia de Povoamento → "Nova Inglaterra"
 
 #### Sul
 
-→ Mão-de-obra escrava → Colônia de Exploração
+&#x20;Mão-de-obra escrava → Colônia de Exploração
 
 ## Desenrolar
 
@@ -41,7 +45,7 @@
 
 ## Consequências
 
-* Motivação para a [Revolução Francesa](revolucao-francesa.md)
+* Motivação para a [Revolução Francesa](../idade-contemporanea/revolucao-francesa.md)
 * Expansão territorial dos Estados Unidos
 
 ### Constituição EUA
@@ -52,3 +56,4 @@
 * legislativo: congresso → câmara dos representantes e senado
 * judiciário: tribunal supremo
 
+***
