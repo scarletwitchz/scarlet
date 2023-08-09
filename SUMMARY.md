@@ -59,6 +59,8 @@
   * [Revolução Francesa](historia/idade-moderna/revolucao-francesa.md)
   * [Independência da América Espanhola](historia/idade-contemporanea/independencia-da-america-espanhola/README.md)
     * [Independência do México](historia/idade-contemporanea/independencia-da-america-espanhola/independencia-do-mexico.md)
+    * [América Central](historia/idade-contemporanea/independencia-da-america-espanhola/america-central.md)
+    * [América do Sul](historia/idade-contemporanea/independencia-da-america-espanhola/america-do-sul.md)
   * [Estados Unidos no Século XIX](historia/idade-contemporanea/estados-unidos-no-seculo-xix.md)
 
 ## Geografia

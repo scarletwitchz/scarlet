@@ -101,5 +101,5 @@ Obs$$^2$$.: Chapetones tinham privilégios que os colocavam acima dos Criollos&#
 
 ***
 
-<mark style="color:yellow;">Ver também</mark>: [Independência do Méxic](independencia-do-mexico.md)[o](independencia-do-mexico.md),&#x20;
+<mark style="color:yellow;">Ver também</mark>: [Independência do Méxic](independencia-do-mexico.md)[o](independencia-do-mexico.md), América Central
 
