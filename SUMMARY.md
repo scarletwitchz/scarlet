@@ -128,6 +128,8 @@
 * [Arte na Idade Moderna](artes/arte-na-idade-moderna/README.md)
   * [Barroco](artes/arte-na-idade-moderna/barroco.md)
   * [Renascimento](artes/arte-na-idade-moderna/renascimento.md)
+* [Arte nos séculos XVIII e XIX](artes/arte-nos-seculos-xviii-e-xix/README.md)
+  * [Impressionismo](artes/arte-nos-seculos-xviii-e-xix/impressionismo.md)
 * [Arte na Idade Contemporânea](artes/arte-na-idade-contemporanea/README.md)
   * [Neoclassicismo](artes/arte-na-idade-contemporanea/neoclassicismo.md)
 
