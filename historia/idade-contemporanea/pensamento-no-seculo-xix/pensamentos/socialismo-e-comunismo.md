@@ -16,7 +16,7 @@
   \-> Todos trabalhando juntos \
   \-> Homens se reeducariam lá, desistindo de suas perversões\
   \-> Não conseguiu investimento para seu projeto.
-* Inspirado em [Rousseau](../../idade-moderna/iluminismo-e-liberalismo.md#rousseau)
+* Inspirado em [Rousseau](../../../idade-moderna/iluminismo-e-liberalismo.md#rousseau)
 
 ### Robert Owen (1771 - 1858)
 
@@ -50,3 +50,7 @@
 ### Mais-valia
 
 * No capitalismo, o valor do trabalho produzido por um homem será sempre maior do que o que lhe pagam por ele. -> Por isso, os empregador teria lucro e o trabalhador ficaria pobre.
+
+***
+
+<mark style="color:yellow;">Ver também</mark>: [Anarquismo x Comunismo](anarquismo-x-comunismo.md), [Anarquismo](anarquismo.md), [Pensamento no Século XIX](../)

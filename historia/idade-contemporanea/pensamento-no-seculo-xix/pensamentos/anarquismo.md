@@ -11,4 +11,4 @@
 
 ***
 
-<mark style="color:yellow;">Ver também</mark>: [Socialismo e Comunismo](socialismo-e-comunismo.md), [Pensamento no Século XIX](./)
+<mark style="color:yellow;">Ver também</mark>: [Socialismo e Comunismo](socialismo-e-comunismo.md), [Pensamento no Século XIX](../), [Anarquismo x Comunismo](anarquismo-x-comunismo.md)

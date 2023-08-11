@@ -20,17 +20,20 @@
 * Todos trabalhavam, inclusive mulheres e crianças -> Estes, eram até "mais baratos"
 * Constantes acidentes de trabalho ignorados por patrões
 
+{% hint style="info" %}
+Falta checar as Revoluções&#x20;
+{% endhint %}
+
 ## Pensamentos
 
-* [Socialismo e Comunismo](socialismo-e-comunismo.md)
-* Anarquismo
-* Liberalismo
+* [Socialismo e Comunismo](pensamentos/socialismo-e-comunismo.md) ->[ Comunismo x Anarquismo](pensamentos/anarquismo-x-comunismo.md)
+* [Anarquismo](pensamentos/anarquismo.md)
+* [Liberalismo](../../idade-moderna/iluminismo-e-liberalismo.md#caracteristicas-gerais-liberalismo)
+* [Positivismo](pensamentos/positivismo.md)
+* [A Doutrina Social da Igreja Católica](pensamentos/a-doutrina-social-da-igreja-catolica.md)
+* [Evolucionismo/Darwinismo Social](pensamentos/evolucionismo-social.md)
 
-
-
-## Anarquismo x Comunism
-
-## [Liberalismo](../../idade-moderna/iluminismo-e-liberalismo.md#caracteristicas-gerais-liberalismo)
+### Breve Resumo: Liberalismo
 
 * (Mais detalhado no link acima)
 * Ideais Burgueses
@@ -39,35 +42,20 @@
 * Repúblicas ou Monarquias com Constituição -> Contra o Absolutismo
 * Democracia
 
-## Evolucionismo Social
+## Unificações&#x20;
 
-* Herbert Spencer (1820 - 1903)
-* Baseado na Teoria da Evolução das Espécies, de Charles Darwin \
-  \-> Como as espécies animais, algumas sociedades vão sobreviver e outras não.
-* Homem branco é superior ao resto
-* Sociedades: Estado primitivo ("Animalesco) -> Processo de Civilização gradual (Semelhante à civilização europeia do período)
+* [Unificação Alemã](unificacoes/unificacao-alema.md)
+* Unificação Italiana
 
-## Positivismo
+### Influência
 
-* Auguste Comte (1798 - 1857)
-* Lei Enciclopédica -> Organização das Ciências por ordem de complexidade \
-  \-> Matemática, Física, Química, Biologia, Sociologia...
-* Sociedade: Início no estágio Teológico -> Atual no estágio Metafísico -> Furuto no estágio Positivo (Alcance da **Tecnocracia**)
-* **Tecnocracia** -> Os sábios deveriam governar
-* Organização da sociedade por meio da lei e da ordem
-* Religião da Humanidade -> Filosofia Positivista vira culto aos sábios
+* 1\) Conservadorismo x [Liberalismo ](./#breve-resumo-liberalismo)
+* 2\) Política das Nacionalidades X Legitimidade monárquica; &#x20;
+* 3\)[ O Congresso de Viena](congresso-de-viena.md) e a Santa Aliança;&#x20;
+* 4\) Revoluções de 1830 e 1848;
+* 5\) A Comuna de Paris
 
-> Lema: "O Amor por princípio, a Ordem por base e o Progresso por fim"
 
-## A Doutrina Social da Igreja Católica
 
-* Papa Leão XIII (1810 - 1903)
-* Século XIX -> Igreja perde força pela disseminação de ideias liberalistas (Estado Laico)
-* Contexto de pobreza e problemas sociais para o proletariado com o avanço do Capitalismo \
-  \-> Piora na Grande Depressão de 1873 -> desemprego e piora desses problemas sociais
-* 1891: Publicação da Renum Novarum -> Alerta para esses problemas sociais da classe operária
-* O papa defendia direitos para os trabalhadores, o capitalismo e rejeitava o socialismo
-* Afirmava que o trabalhador deveria ser respeitado como homem e como cristão.
-* Bem Comum: O Estado deveria dar o mínimo para os trabalhadores prosperarem&#x20;
-* Humanismo Integral e Solidário
+
 

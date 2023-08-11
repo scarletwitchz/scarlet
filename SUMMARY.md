@@ -63,9 +63,15 @@
     * [América do Sul](historia/idade-contemporanea/independencia-da-america-espanhola/america-do-sul.md)
   * [Estados Unidos no Século XIX](historia/idade-contemporanea/estados-unidos-no-seculo-xix.md)
   * [Pensamento no Século XIX](historia/idade-contemporanea/pensamento-no-seculo-xix/README.md)
-    * [Socialismo e Comunismo](historia/idade-contemporanea/pensamento-no-seculo-xix/socialismo-e-comunismo.md)
-    * [Anarquismo x Comunismo](historia/idade-contemporanea/pensamento-no-seculo-xix/anarquismo-x-comunismo.md)
-    * [Anarquismo](historia/idade-contemporanea/pensamento-no-seculo-xix/anarquismo.md)
+    * [Unificações](historia/idade-contemporanea/pensamento-no-seculo-xix/unificacoes/README.md)
+      * [Unificação Alemã](historia/idade-contemporanea/pensamento-no-seculo-xix/unificacoes/unificacao-alema.md)
+    * [Pensamentos](historia/idade-contemporanea/pensamento-no-seculo-xix/pensamentos/README.md)
+      * [Anarquismo x Comunismo](historia/idade-contemporanea/pensamento-no-seculo-xix/pensamentos/anarquismo-x-comunismo.md)
+      * [Anarquismo](historia/idade-contemporanea/pensamento-no-seculo-xix/pensamentos/anarquismo.md)
+      * [Socialismo e Comunismo](historia/idade-contemporanea/pensamento-no-seculo-xix/pensamentos/socialismo-e-comunismo.md)
+      * [Positivismo](historia/idade-contemporanea/pensamento-no-seculo-xix/pensamentos/positivismo.md)
+      * [A Doutrina Social da Igreja Católica](historia/idade-contemporanea/pensamento-no-seculo-xix/pensamentos/a-doutrina-social-da-igreja-catolica.md)
+      * [Evolucionismo Social](historia/idade-contemporanea/pensamento-no-seculo-xix/pensamentos/evolucionismo-social.md)
     * [Congresso de Viena](historia/idade-contemporanea/pensamento-no-seculo-xix/congresso-de-viena.md)
 
 ## Geografia
