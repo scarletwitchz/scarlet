@@ -20,7 +20,7 @@
 
 * Sem limitações físicas como grandes montanhas, e sem tragédias decorrentes de placas tectônicas, como terremotos.
 * O problema do Brasil é a sua grande extensão -> Tempo de envio de um canto a outro
-* Existe pouca integração entre modais de transporte no Brasil
+* Existe pouca [integração entre modais de transporte](transportes.md#integracao-entre-modais-de-transporte) no Brasil
 
 ### Hidroviário
 
@@ -42,6 +42,8 @@
 * Afetado sempre pelas greves de caminhoneiros
 * Predominante no brasil -> 61%
 * Melhor custo-benefício para **curtas distâncias**
+
+### **Integração entre Modais de Transporte**
 
 
 
