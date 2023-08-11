@@ -63,6 +63,9 @@
     * [América do Sul](historia/idade-contemporanea/independencia-da-america-espanhola/america-do-sul.md)
   * [Estados Unidos no Século XIX](historia/idade-contemporanea/estados-unidos-no-seculo-xix.md)
   * [Pensamento no Século XIX](historia/idade-contemporanea/pensamento-no-seculo-xix/README.md)
+    * [Socialismo e Comunismo](historia/idade-contemporanea/pensamento-no-seculo-xix/socialismo-e-comunismo.md)
+    * [Anarquismo x Comunismo](historia/idade-contemporanea/pensamento-no-seculo-xix/anarquismo-x-comunismo.md)
+    * [Anarquismo](historia/idade-contemporanea/pensamento-no-seculo-xix/anarquismo.md)
     * [Congresso de Viena](historia/idade-contemporanea/pensamento-no-seculo-xix/congresso-de-viena.md)
 
 ## Geografia
