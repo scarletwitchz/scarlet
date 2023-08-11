@@ -20,11 +20,6 @@ layout:
 
 # Urbanização no Brasil
 
-### População Rural e Urbana: Critérios IBGE
-
-* Urbana: Quem reside dentro do perímetro urbano
-* Rural: Quem reside fora dele
-
 ## Processo de Urbanização
 
 ### Desenrolar
@@ -32,7 +27,7 @@ layout:
 * Brasil Colônia: Vilas -> se desenvolvem -> Cidades&#x20;
 * República: **Vila** vira **Cidade**, **Município** é o território todo da **Cidade**
 * Concentração de cidades na faixa litorânea
-* Urbanização em Minas Gerais (GO e MT também, mas menos) -> Atividade mineradora intensa
+* Urbanização em Minas Gerais (GO e MT também, mas menos) -> **Atividade mineradora intensa** -> Quando a mineração foi entrando em decadência, as adjacências de São Paulo foram se desenvolvendo (**atividade cafeicultora**)
 
 ### Dias Atuais
 
@@ -41,4 +36,11 @@ layout:
 * **Índice de Urbanização**: 1950 (36%), 1970 (56%), 2015 (85%) \
   \-> Região Sudeste é sempre a mais urbanizada. \
   \-> Centro-Oeste é o segundo lugar: DF fica completamente dentro do perímetro urbano de Brasília e a abertura de rodovias e aprimoramento da atividade agrária contribuíram para tal.
+
+## População Rural e Urbana
+
+### Critérios IBGE
+
+* Urbana: Quem reside dentro do perímetro urbano
+* Rural: Quem reside fora dele
 

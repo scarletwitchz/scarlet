@@ -62,6 +62,8 @@
     * [América Central](historia/idade-contemporanea/independencia-da-america-espanhola/america-central.md)
     * [América do Sul](historia/idade-contemporanea/independencia-da-america-espanhola/america-do-sul.md)
   * [Estados Unidos no Século XIX](historia/idade-contemporanea/estados-unidos-no-seculo-xix.md)
+  * [Pensamento no Século XIX](historia/idade-contemporanea/pensamento-no-seculo-xix/README.md)
+    * [Congresso de Viena](historia/idade-contemporanea/pensamento-no-seculo-xix/congresso-de-viena.md)
 
 ## Geografia
 
@@ -116,6 +118,7 @@
 ## Filosofia
 
 * [✨ Assuntos](filosofia/assuntos.md)
+* [Utilitarismo Ético](filosofia/utilitarismo-etico.md)
 * [Kant](filosofia/kant.md)
 
 ## Artes
@@ -130,6 +133,10 @@
   * [Renascimento](artes/arte-na-idade-moderna/renascimento.md)
 * [Arte nos séculos XVIII e XIX](artes/arte-nos-seculos-xviii-e-xix/README.md)
   * [Impressionismo](artes/arte-nos-seculos-xviii-e-xix/impressionismo.md)
+* [Vanguardas do século XX](artes/vanguardas-do-seculo-xx/README.md)
+  * [Expressionismo](artes/vanguardas-do-seculo-xx/expressionismo.md)
+  * [Fauvismo](artes/vanguardas-do-seculo-xx/fauvismo.md)
+  * [Cubismo](artes/vanguardas-do-seculo-xx/cubismo.md)
 * [Arte na Idade Contemporânea](artes/arte-na-idade-contemporanea/README.md)
   * [Neoclassicismo](artes/arte-na-idade-contemporanea/neoclassicismo.md)
 

@@ -45,7 +45,7 @@
 * 1689 - 1755
 * "O Espírito das Leis" → Teoria dos 3 poderes.
 * Estado representado pela tripartição dos poderes ==Legislativo, Executivo e Judiciário==, atuando em conjunto e se complementando.
-* \[\[Revolução Francesa]]
+* [Revolução Francesa](revolucao-francesa.md)
 
 ### Voltaire
 
