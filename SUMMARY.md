@@ -77,6 +77,8 @@
 ## Geografia
 
 * [✨ Assuntos](geografia/geoo.md)
+* [Page](geografia/page.md)
+* [Energia](geografia/energia.md)
 * [Urbanização](geografia/urbanizacao/README.md)
   * [Conurbação](geografia/urbanizacao/conurbacao.md)
   * [Urbanização no Brasil](geografia/urbanizacao/urbanizacao-no-brasil.md)
