@@ -19,6 +19,10 @@
 ## Transporte no Brasil&#x20;
 
 * Sem limitações físicas como grandes montanhas, e sem tragédias decorrentes de placas tectônicas, como terremotos.
+* Um dos mais baratos
+* Depende de condições físicas
+* Se o relevo é o problema -> Eclusas
+*
 * O problema do Brasil é a sua grande extensão -> Tempo de envio de um canto a outro
 * Existe pouca [integração entre modais de transporte](transportes.md#integracao-entre-modais-de-transporte) no Brasil
 
@@ -30,20 +34,33 @@
 
 ### Ferroviário
 
-* médio custo
-* Se mostam superiores (em relação a custo) sobre o rodoviário a partir de 500km de distância
+* Médio custo
+* Investimentos nos trilhos
+* Ideais pra grandes e médias distâncias \
+  \-> Se mostam superiores (em relação a custo) sobre o rodoviário a partir de 500km de distância
+* Mais segurança em acidentes e roubos
+* EUA: $$\frac{1}{3}$$ do tranporte ferroviário mundial \
+  \-> Também destaque para Rússia, China e Japão em quantitativo ferroviário
 
 ### Rodoviário
 
 * Foi objeto de grande investimento no governo Juscelino Kubitschek \
   \-> Aceleração momentânea de transporte, que custaria mais caro no futuro, como observado
-* Alto custo
-* Problemas causados por combustíveis fósseis -> CARO
+* Alto custo de combustível, estradas e manutenção
+* Menos seguro contra acidentes e roubos
+* Flexibilidade de rotas, mas problema de engarrafamentos
+* Problemas causados por combustíveis fósseis&#x20;
 * Afetado sempre pelas greves de caminhoneiros
+* Comum em países subdesenvolvidos
 * Predominante no brasil -> 61%
 * Melhor custo-benefício para **curtas distâncias**
 
-### **Integração entre Modais de Transporte**
+### **Transporte Intermodal**
+
+* Deslocamento de carga usando mais de um modal de transporte \
+  \-> pode diminuir custos logísticos se usados estrategicamente (ex.: economia no frete)&#x20;
+* Exemplo Ideal: Trajeto curto de caminhão e mais longos de trem ou barco \
+  \-> vai pra estações internas ou pra exportação em portos/aeroportos
 
 
 

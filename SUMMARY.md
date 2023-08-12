@@ -4,6 +4,7 @@
 
 * [Assuntos](README.md)
   * [Mudanças Recentes](<README (1).md>)
+  * [A6](inicio/readme/a6.md)
 
 ## Física
 
@@ -90,6 +91,8 @@
 ## Literatura
 
 * [✨ Assuntos](literatura/assuntos.md)
+* [Naturalismo](literatura/naturalismo.md)
+* [Realismo](literatura/realismo.md)
 * [Romantismo](portugues/romantismo.md)
 
 ## Biologia
@@ -131,6 +134,10 @@
 * [✨ Assuntos](filosofia/assuntos.md)
 * [Utilitarismo Ético](filosofia/utilitarismo-etico.md)
 * [Kant](filosofia/kant.md)
+
+## Sociologia
+
+* [Economia](sociologia/economia.md)
 
 ## Artes
 
