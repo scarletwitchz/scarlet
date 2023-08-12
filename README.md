@@ -2,7 +2,7 @@
 
 ## Matéria da A6!!
 
-Clica aqui
+[Clica aqui](inicio/readme/a6.md)
 
 ## Cheque as mudanças recentes abaixo.
 

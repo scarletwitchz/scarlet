@@ -1,6 +1,23 @@
 # Transportes
 
+## Introdução
+
+* Navegação marítima relacionada ao crescimento do capitalismo comercial
+* Segunda Revolução Industrial (fim do Século XIX) -> Navios e Trens a vapor
+* Transportes que percorrem longas distâncias -> Evolução do capitalismo \
+  \-> Conexões e exportações em todo o mundo, ultrapassando as barreiras geográficas
+
+
+
 ## Classificação&#x20;
+
+### Coletivo
+
+* Ônibus, Metrô, BRT e VLT
+
+### Individual
+
+* Carro, Moto, Bicicleta
 
 ### Fatores de Qualidade
 
@@ -18,19 +35,47 @@
 
 ## Transporte no Brasil&#x20;
 
-* Sem limitações físicas como grandes montanhas, e sem tragédias decorrentes de placas tectônicas, como terremotos.
-* Um dos mais baratos
-* Depende de condições físicas
-* Se o relevo é o problema -> Eclusas
-*
-* O problema do Brasil é a sua grande extensão -> Tempo de envio de um canto a outro
+* Maior integração de corredores de exportação nas regiões Sul e Sudeste
 * Existe pouca [integração entre modais de transporte](transportes.md#integracao-entre-modais-de-transporte) no Brasil
+* Construção da Estrada do Pacífico -> Desemboca em Portos do Peru
+* Corredor Interoceânico Sul-Americano -> une os oceanos Atlântico e Pacífico de forma comercial
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Corredor Interoceânico Sul-Americano</p></figcaption></figure>
+
+
 
 ### Hidroviário
 
 * Mais barato (e com mais capacidade de carga)&#x20;
-* Uso de **containers** \
-  \-> Portos foram modernizados a fim de atender a capacidade de carga necessária pra abrigar os containers, que carregam o máximo de carga possível, de forma segura e compacta.
+* Uso de **contâineres (muita eficiência)**\
+  \-> Portos foram modernizados a fim de atender a capacidade de carga necessária pra abrigar os contâineres, que carregam o máximo de carga possível, de forma segura e compacta. \
+  \-> No Brasil, a qualidade desse transporte é um pouco pior do que no resto do mundo, registrando alguns atrasos (e baixa produtividade)
+* Sem limitações físicas como grandes montanhas, e sem tragédias decorrentes de placas tectônicas, como terremotos.
+* Um dos mais baratos
+* Depende de condições físicas
+* Se o relevo é o problema -> **Eclusas**: Obras de engenharia que permitem que as embarcações subam e desçam rios em locais onde há desníveis como barragens, quedas de água e corredeiras.
+* O problema do Brasil é a sua grande extensão -> Tempo de envio de um canto a outro
+
+#### Navegação por Cabotagem
+
+* Atende mercado interno
+* Porto a porto no território nacional
+
+#### Hidrovias
+
+* <mark style="color:blue;">**Tocantins-Araguaia**</mark>: construção da eclusa de Tucuruí tornou um trecho navegável \
+  \-> Transporta produção agrícola do Centro-Oeste, bauxita e alumina \
+  \-> Porto de Barcarena
+* <mark style="color:blue;">**Hidrovia do Rio Madeira**</mark>: navegável de Rondônia até Amazonas (no encontro com o Rio Amazonas)\
+  \-> Escoamento de Soja do Centro-Oeste, milho e combustível
+* <mark style="color:blue;">**Hidrovia do São Francisco**</mark>: uso por comunidades ribeirinhas e pequenas cargas
+* Diversas eclusas instaladas no Sudeste e Sul. \
+  \-> Hidrovias Paraná-Paraguai e Tietê-Paraná
+
+### Aeroviário
+
+* Transporte de pessoas -> É o meio que mais transporta
+* Capacidade ampliada depois de grandes eventos: Copa e Olimpíadas
 
 ### Ferroviário
 
@@ -44,11 +89,13 @@
 
 ### Rodoviário
 
-* Foi objeto de grande investimento no governo Juscelino Kubitschek \
-  \-> Aceleração momentânea de transporte, que custaria mais caro no futuro, como observado
+* Foi objeto de grande investimento no governo Juscelino Kubitschek (interligar o país)\
+  \-> Aceleração momentânea de transporte, que custaria mais caro no futuro, como observado \
+  \-> No plano de metas, ele aponta a necessidade de uma malha ferroviária melhor, mas ocorreram muitos problemas e o projeto não foi pra frente.
 * Alto custo de combustível, estradas e manutenção
 * Menos seguro contra acidentes e roubos
-* Flexibilidade de rotas, mas problema de engarrafamentos
+* Flexibilidade de rotas, mas problema de engarrafamentos \
+  \-> 70% das estradas brasileiras estão em más condições de tráfego
 * Problemas causados por combustíveis fósseis&#x20;
 * Afetado sempre pelas greves de caminhoneiros
 * Comum em países subdesenvolvidos
@@ -61,6 +108,3 @@
   \-> pode diminuir custos logísticos se usados estrategicamente (ex.: economia no frete)&#x20;
 * Exemplo Ideal: Trajeto curto de caminhão e mais longos de trem ou barco \
   \-> vai pra estações internas ou pra exportação em portos/aeroportos
-
-
-
