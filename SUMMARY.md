@@ -3,7 +3,6 @@
 ## 📌 Início
 
 * [Assuntos](README.md)
-  * [Mudanças Recentes](<README (1).md>)
   * [A6](inicio/readme/a6.md)
 
 ## Física

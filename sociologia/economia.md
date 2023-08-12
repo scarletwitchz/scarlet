@@ -2,7 +2,9 @@
 
 ## Conceitos
 
-* Economia -> estuda como a sociedade administra recursos esgotáveis
+* Economia -> estuda como a sociedade administra recursos esgotáveis \
+  \-> Microeconomia: como famílias e empresas tomam decisões e agem no mercado \
+  \-> Macroeconomia: análise de fenômenos econômicos
 * Escassez -> limitação de recursos disponíveis na sociedade
 * Eficiência -> máximo desempenho a partir da escassez de recursos
 * Custo de Oportunidade -> é o que se abre mão para "agarrar" uma oportunidade
@@ -27,3 +29,18 @@ Não são setores de produção!!
 * Mão invisível do mercado, ela que dita os preços&#x20;
 * Preço baixo -> Procura aumenta
 * Preço alto -> Procura diminui
+
+### Lei da Oferta
+
+* Mais preço -> Mais disponibilidade
+* Menos preço -> Menos disponibilidade
+* Os comerciantes vão deixar o preço mais alto possível -> quando o negócio diminuir lucro, eles vão abaixando
+
+
+
+<figure><img src="https://i0.wp.com/investidoremvalor.com/wp-content/uploads/2022/01/oferta-demanda-04.png?resize=369%2C303&#x26;ssl=1" alt=""><figcaption></figcaption></figure>
+
+* Equilíbrio de mercado -> o mercado está em equilíbrio quando a quantidade ofertada é igual a quantidade demandada em um determinado preço de equilíbrio.
+* Desequilíbrio \
+  \-> Produtos demais -> Preço vai abaixar pra acabar com o estoque \
+  \-> Demanda demais -> Preço vai subir, compra quem estiver disposto a pagar mais

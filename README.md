@@ -4,10 +4,6 @@
 
 [Clica aqui](inicio/readme/a6.md)
 
-## Cheque as mudanças recentes abaixo.
-
-[Mudanças Recentes](<README (1).md>)
-
 ## Clique nos assuntos abaixo para ser redirecionado.&#x20;
 
 (Tudo que estiver em Rosa é um link clicável!)
