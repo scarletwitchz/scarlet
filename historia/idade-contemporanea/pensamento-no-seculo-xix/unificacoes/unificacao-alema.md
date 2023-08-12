@@ -50,3 +50,25 @@
 * Prussianos vencem novamente -> Acordo de paz com Áustria, entrega dos ducados à Prússia e **fim da Confederação Germânica**
 * Fundação da Confederação Germânica do Norte (líder: Prússia)
 
+## O Despacho de EMS
+
+* Napoleão III era o problema para a unificação alemã em sua totalidade.
+* Bismarck forja um documento declarando estado de guerra e a guerra se inicia entre França e Prússia -> Foi como se o atual governante francês (Guilherme I) tivesse declarado guerra sem o conhecimento de Napoleão e a Prússia apenas respondeu, como se Bismarck não soubesse de nada.
+* Napoleão e França extremamente ofendidos
+
+## Guerra Franco-Prussiana
+
+* Estados do Sul da Confederação se juntaram ao Norte por causa da guerra
+* Batalha de Sedan: Alemanha ganha&#x20;
+* Alemanha totalmente unificada
+* Nasce o Império Alemão (Segundo Reich) em 1871 -> Em pleno palácio de Versalhes (França)
+* Tratado de Frankfurt: Alemanha recebe os territórios de Alsácia e Lorena e 5 bilhões de francos
+* **Revanchismo Francês**
+
+## Saldo
+
+* Economia alemã melhorou muito pós unificação
+* Concorrência com a Grã-Bretanha por causa do desenvolvimento industrial
+
+
+

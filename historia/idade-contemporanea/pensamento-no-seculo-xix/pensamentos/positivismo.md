@@ -3,6 +3,7 @@
 ## Descrição
 
 * Auguste Comte (1798 - 1857)
+* Analisa a realidade através das observações e constatações racionais&#x20;
 * Lei Enciclopédica -> Organização das Ciências por ordem de complexidade \
   \-> Matemática, Física, Química, Biologia, Sociologia...
 * Sociedade: Início no estágio Teológico -> Atual no estágio Metafísico -> Furuto no estágio Positivo (Alcance da **Tecnocracia**)
