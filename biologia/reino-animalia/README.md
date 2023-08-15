@@ -34,13 +34,27 @@ Nos animais em que o blastóporo origina primeiro o **ânus**: temos <mark style
 Nos animais em que o blastóporo origina primeiro a **boca**: temos <mark style="color:red;">**protostômios**</mark>
 {% endhint %}
 
+## Celoma
+
 ***
 
 ## Animais Invertebrados
 
 * [Poríferos](invertebrados/poriferos.md)
 * [Cnidários](invertebrados/cnidarios.md)
+* [Platelmintos](invertebrados/platelmintos/)
+* [Nematódeos](invertebrados/nematodeos.md)
+* [Anelídeos](invertebrados/anelideos.md)
+* [Moluscos](invertebrados/moluscos.md)
+* [Artrópodes](invertebrados/artropodes.md)
+* [Equinodermas](invertebrados/equinodermas.md)
 
 ## Animais Vertebrados
+
+* [Peixes ](vertebrados/peixes.md)
+* [Anfíbios](vertebrados/anfibios.md)
+* [Répteis ](vertebrados/repteis.md)
+* [Aves ](vertebrados/aves.md)
+* [Mamíferos](vertebrados/mamiferos.md)
 
 [^1]: "intestino primitivo"

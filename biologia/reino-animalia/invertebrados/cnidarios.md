@@ -28,7 +28,7 @@
 
 ## Estrutura
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Estruturas do Pólipo e da Medusa</p></figcaption></figure>
 
 ### Pólipo
 
@@ -46,6 +46,6 @@
 ## Filos
 
 * **Antozoários** -> Apenas fase de **pólipo** -> Anêmonas ou Corais&#x20;
-* Cifozoários -> Fase de medusa é predominante, pouca fase de pólipo
+* **Cifozoários** -> Fase de medusa é predominante, pouca fase de pólipo
 * Hidrozoários -> Fase de pólipo é predominante, pouca fase de medusa
-* Cubozoários -> Apenas fase de medusa
+* **Cubozoários** -> Apenas fase de medusa
