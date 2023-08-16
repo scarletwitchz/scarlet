@@ -127,6 +127,10 @@
 ## Química
 
 * [✨ Assuntos](quimica/assuntos.md)
+* [Oxidação e Redução](quimica/oxidacao-e-reducao.md)
+* [Eletronegatividade](quimica/eletronegatividade/README.md)
+  * [Fila da Eletronegatividade](quimica/eletronegatividade/fila-da-eletronegatividade.md)
+* [Número de Oxidação (NOX)](quimica/numero-de-oxidacao-nox.md)
 * [Polaridade das Moléculas](quimica/polaridade-das-moleculas.md)
 
 ## Filosofia
