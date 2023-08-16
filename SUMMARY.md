@@ -127,6 +127,7 @@
 ## Química
 
 * [✨ Assuntos](quimica/assuntos.md)
+* [Pilhas Eletroquímicas](quimica/pilhas-eletroquimicas.md)
 * [Oxidação e Redução](quimica/oxidacao-e-reducao.md)
 * [Eletronegatividade](quimica/eletronegatividade/README.md)
   * [Fila da Eletronegatividade](quimica/eletronegatividade/fila-da-eletronegatividade.md)
