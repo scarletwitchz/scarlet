@@ -4,7 +4,7 @@
 *   Contrário da reação das pilhas: a corrente elétrica produz a reação ao invés de a reação produzir a corrente elétrica \
     \-> Vide:&#x20;
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 * Na Eletrólise, os cátions vão para o cátodo realizar a redução, e os ânions vão para o ânodo realizar a oxidação
 
 ## Eletrólise Ígnea&#x20;

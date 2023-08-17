@@ -23,7 +23,7 @@ Funçāo: alimento para tartarugas, abrigo pra peixes e medicamentos contra AIDS
 
 <div align="center">
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -35,4 +35,4 @@ Funçāo: alimento para tartarugas, abrigo pra peixes e medicamentos contra AIDS
 * **Espícula** -> Dão suporte e fixação à esponja
 * **Pinacócito** -> Células unidas que fazem o revestimento da esponja
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Estrutura da Esponja e Funções das Células </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Estrutura da Esponja e Funções das Células </p></figcaption></figure>

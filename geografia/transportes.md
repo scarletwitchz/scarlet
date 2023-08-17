@@ -40,7 +40,7 @@
 * Construção da Estrada do Pacífico -> Desemboca em Portos do Peru
 * Corredor Interoceânico Sul-Americano -> une os oceanos Atlântico e Pacífico de forma comercial
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Corredor Interoceânico Sul-Americano</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Corredor Interoceânico Sul-Americano</p></figcaption></figure>
 
 
 

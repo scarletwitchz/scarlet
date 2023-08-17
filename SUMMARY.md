@@ -19,6 +19,10 @@
   * [Estados Físicos ou Estados de Agregação da Matéria](fisica/termologia/estados-fisicos-ou-estados-de-agregacao-da-materia.md)
   * [Escalas Termométricas](fisica/termologia/escalas-termometricas.md)
 * [Óptica](fisica/optica/README.md)
+  * [Note 1](fisica/optica/note-1.md)
+  * [Note 2](fisica/optica/note-2.md)
+  * [Note 3](fisica/optica/note-3.md)
+  * [Note 4](fisica/optica/note-4.md)
   * [Luz](fisica/optica/luz.md)
 * [Forças de Coesão](fisica/forcas-de-coesao.md)
 
@@ -178,3 +182,7 @@
   * [Estrutura da Prova](vestibulares/usp/estrutura-da-prova.md)
 * [UNICAMP](vestibulares/unicamp/README.md)
   * [Estrutura da Prova](vestibulares/unicamp/estrutura-da-prova.md)
+
+## Bibliografia
+
+* [Youtube](bibliografia/youtube.md)
