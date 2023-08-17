@@ -1,5 +1,7 @@
 # Eletrólise
 
+## Descrição
+
 * Reação não espontânea!!
 *   Contrário da reação das pilhas: a corrente elétrica produz a reação ao invés de a reação produzir a corrente elétrica \
     \-> Vide:&#x20;
@@ -10,9 +12,16 @@
 ## Eletrólise Ígnea&#x20;
 
 * Reação química provocada pela passagem de corrente elétrica por meio de um composto iônico fundido.
-*
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+* Macete: \
+  \-> Se for ametal coloca com 2 no final -> Ex.: $$Cl_2$$ \
+  \-> Se for metal coloca só um namoral -> Ex.: Na \
+  \-> Depois só balancear
+
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Eletrólise Aquosa
 
 * Reação química provocada pela passagem de corrente elétrica por meio de uma solução aquosa de eletrólito.
-
