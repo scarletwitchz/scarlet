@@ -127,7 +127,12 @@
 ## Química
 
 * [✨ Assuntos](quimica/assuntos.md)
-* [Pilhas Eletroquímicas](quimica/pilhas-eletroquimicas.md)
+* [Eletrólise](quimica/eletrolise.md)
+* [Pilhas Eletroquímicas](quimica/pilhas-eletroquimicas/README.md)
+  * [Pilha de Daniell](quimica/pilhas-eletroquimicas/pilha-de-daniell.md)
+  * [Pilha Alcalina](quimica/pilhas-eletroquimicas/pilha-alcalina.md)
+  * [Pilha de Leclanché ou Pilha Seca Comum](quimica/pilhas-eletroquimicas/pilha-de-leclanche-ou-pilha-seca-comum.md)
+  * [Bateria de Ácido/Chumbo](quimica/pilhas-eletroquimicas/bateria-de-acido-chumbo.md)
 * [Oxidação e Redução](quimica/oxidacao-e-reducao.md)
 * [Eletronegatividade](quimica/eletronegatividade/README.md)
   * [Fila da Eletronegatividade](quimica/eletronegatividade/fila-da-eletronegatividade.md)
