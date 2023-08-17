@@ -19,10 +19,9 @@
   * [Estados Físicos ou Estados de Agregação da Matéria](fisica/termologia/estados-fisicos-ou-estados-de-agregacao-da-materia.md)
   * [Escalas Termométricas](fisica/termologia/escalas-termometricas.md)
 * [Óptica](fisica/optica/README.md)
-  * [Note 1](fisica/optica/note-1.md)
-  * [Note 2](fisica/optica/note-2.md)
-  * [Note 3](fisica/optica/note-3.md)
-  * [Note 4](fisica/optica/note-4.md)
+  * [Cap 10](fisica/optica/cap-10.md)
+  * [Cap 11](fisica/optica/cap-11.md)
+  * [Cap 12](fisica/optica/cap-12.md)
   * [Luz](fisica/optica/luz.md)
 * [Forças de Coesão](fisica/forcas-de-coesao.md)
 
