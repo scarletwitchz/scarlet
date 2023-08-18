@@ -19,6 +19,8 @@ layout:
 
 # Óptica
 
+* [Cap 10](cap-10.md), [Cap 11](cap-11.md), [Cap 12](cap-12.md)
+
 ## <mark style="color:purple;">Conceitos Básicos</mark>
 
 * **Raio de Luz** → Uma fonte de luz (sem limitações) emite infinitos raios de luz.

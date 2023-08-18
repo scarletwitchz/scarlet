@@ -130,6 +130,7 @@
 ## Química
 
 * [✨ Assuntos](quimica/assuntos.md)
+* [Calor](quimica/calor.md)
 * [Eletrólise](quimica/eletrolise.md)
 * [Pilhas Eletroquímicas](quimica/pilhas-eletroquimicas/README.md)
   * [Pilha de Daniell](quimica/pilhas-eletroquimicas/pilha-de-daniell.md)

@@ -29,7 +29,7 @@ Luz branca pode ser percebida através de um prisma.
 * Opaco: objetos <mark style="color:red;">**não são vistos**</mark> por trás do meio \
   \-> Ex.: Madeira, concreto
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Fenômenos Ópticos
 
@@ -49,7 +49,7 @@ Luz branca pode ser percebida através de um prisma.
   \-> Corpo cinza-escuro: absorção grande \
   \-> Corpo branco: há difusão
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Velocidade
 
@@ -84,7 +84,7 @@ Luz branca pode ser percebida através de um prisma.
 * Entre a luz em cima de um meio opaco "x", e outro meio opaco "y", existe uma sombra que não recebe a luz que "x" recebeu. \
   \-> Penumbra é o espaço com sombra parcial (recebe alguma luz)
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Eclipses
 
@@ -99,7 +99,7 @@ Podem ser totais ou parciais.
 * É uma caixa de paredes opacas, com um buraco.
 * Uma fonte de luz é colocada em frente ao buraco, e, dentro da caixa, é gerada uma imagem similar ao objeto luminoso, mas de **forma invertida**.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Ângulo Visual
 

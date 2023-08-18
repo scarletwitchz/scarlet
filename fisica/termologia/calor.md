@@ -43,3 +43,4 @@
 * se dá quando um corpo recebe calor, provocando mudança de estado físico
 * Ex.: gelo se transformando em água ao ser aquecido.
 
+***
