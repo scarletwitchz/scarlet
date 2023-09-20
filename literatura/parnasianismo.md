@@ -6,17 +6,17 @@ Se insere na mesma época do [Simbolismo](simbolismo.md), [Realismo ](realismo.m
 
 ## Características Gerais
 
-* Era a poesia da época&#x20;
-* O período tinha muita influência do pensamento científico, aqui manifestado pelo **perfeccionismo** na forma -> "A deusa forma"
-* A arte pela arte: o poema deve ser belo, sem preocupações morais
-* Poetas comparados a ourives: trabalho dura pra o ouro/poema ser lapidado.
+* Era a **poesia** da época&#x20;
+* O período tinha muita influência do pensamento científico, aqui manifestado pelo **perfeccionismo** na forma -> <mark style="color:red;">**"A deusa forma"**</mark>
+* **A arte pela arte:** o poema deve ser belo, sem preocupações morais
+* Poetas comparados a ourives: trabalho dura pro ouro/poema ser lapidado.
 * Temas: Cotidiano, Fatos Históricos, Cultura Clássica
 
 ### Estrutura
 
 * Forte uso de sonetos -> 2 quartetos + 2 tercetos
 * Rimas regulares
-* Vocabulário rebuscado
+* **Vocabulário rebuscado**
 * Versos decassílabos (10) ou alexandrinos (12)
 
 ## Principais Nomes

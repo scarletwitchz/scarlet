@@ -3,6 +3,7 @@
 ## <mark style="color:purple;">Contexto</mark>
 
 * Se insere na mesma época do [Parnasianismo](parnasianismo.md), [Realismo ](realismo.md)e [Naturalismo](naturalismo.md)
+* <mark style="color:red;">Obs.</mark>: não fez sucesso no Brasil em sua época
 
 ## <mark style="color:purple;">Características Gerais</mark>
 
