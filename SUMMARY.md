@@ -96,8 +96,6 @@
 * [Naturalismo](literatura/naturalismo.md)
 * [Realismo](literatura/realismo.md)
 * [Romantismo](portugues/romantismo.md)
-* [Parnasianismo](literatura/parnasianismo.md)
-* [Simbolismo](literatura/simbolismo.md)
 
 ## Biologia
 
