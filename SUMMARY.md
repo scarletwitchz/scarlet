@@ -3,7 +3,7 @@
 ## 📌 Início
 
 * [Assuntos](README.md)
-  * [A6](inicio/readme/a6.md)
+  * [A7](inicio/readme/a7.md)
 
 ## Física
 
@@ -96,6 +96,8 @@
 * [Naturalismo](literatura/naturalismo.md)
 * [Realismo](literatura/realismo.md)
 * [Romantismo](portugues/romantismo.md)
+* [Parnasianismo](literatura/parnasianismo.md)
+* [Simbolismo](literatura/simbolismo.md)
 
 ## Biologia
 

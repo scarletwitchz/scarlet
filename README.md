@@ -2,11 +2,11 @@
 
 ## Matéria da A6!!
 
-[Clica aqui](inicio/readme/a6.md)
+[Clica aqui](inicio/readme/a7.md)
 
 ## Clique nos assuntos abaixo para ser redirecionado.&#x20;
 
-(Tudo que estiver em Rosa é um link clicável!)
+(Tudo que estiver em Rosa é um link clicável!)&#x20;
 
 * [Física](broken-reference)
 * [Matemática](broken-reference)

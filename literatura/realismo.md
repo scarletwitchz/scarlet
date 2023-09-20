@@ -7,7 +7,7 @@
 * Influência dos ideais [Positivistas](../historia/idade-contemporanea/pensamento-no-seculo-xix/pensamentos/positivismo.md)
 * Operários x Burguesia
 
-## Características
+## Características Gerais
 
 * Abordagem objetiva da realidade
 * Interesse em temas sociais

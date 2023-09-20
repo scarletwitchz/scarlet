@@ -5,7 +5,7 @@
 * Revolução Francesa (1789-1799)
 * Independência do Brasil (1822)
 
-## <mark style="color:purple;">Características em Comum</mark>
+## <mark style="color:purple;">Características Gerais</mark>
 
 * egocentrismo
 * **prosa longa**
