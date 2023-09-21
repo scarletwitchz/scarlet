@@ -49,7 +49,7 @@ Luz branca pode ser percebida através de um prisma.
   \-> Corpo cinza-escuro: absorção grande \
   \-> Corpo branco: há difusão
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Velocidade
 
@@ -84,7 +84,7 @@ Luz branca pode ser percebida através de um prisma.
 * Entre a luz em cima de um meio opaco "x", e outro meio opaco "y", existe uma sombra que não recebe a luz que "x" recebeu. \
   \-> Penumbra é o espaço com sombra parcial (recebe alguma luz)
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Eclipses
 

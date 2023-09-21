@@ -22,10 +22,10 @@ Descrição:
 * Plano Frontal: plano(s) perpendicular(es) ao eixo principal
 * Plano Meridional: plano(s) que contenham o eixo principal
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Autorreflexão&#x20;
 
 * Raios de luz que incidem sobre o espelho, se passarem na direção do centro da curvatura, se refeltirão.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
