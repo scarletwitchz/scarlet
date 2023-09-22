@@ -127,10 +127,10 @@
     * [Aves](biologia/reino-animalia/vertebrados/aves.md)
     * [Mamíferos](biologia/reino-animalia/vertebrados/mamiferos.md)
 * [Água e suas características](biologia/agua-e-suas-caracteristicas.md)
-* [Fisiologia Animal: Sistemas](biologia/fisiologia-animal-sistemas/README.md)
-  * [Sistema Digestório](biologia/fisiologia-animal-sistemas/sistema-digestorio.md)
-  * [Sistema Respiratório](biologia/fisiologia-animal-sistemas/sistema-respiratorio.md)
-  * [Sistema Cardiovascular](biologia/fisiologia-animal-sistemas/sistema-cardiovascular.md)
+* [Fisiologia Humana: Sistemas](biologia/fisiologia-humana-sistemas/README.md)
+  * [Sistema Digestório](biologia/fisiologia-humana-sistemas/sistema-digestorio.md)
+  * [Sistema Respiratório](biologia/fisiologia-humana-sistemas/sistema-respiratorio.md)
+  * [Sistema Cardiovascular](biologia/fisiologia-humana-sistemas/sistema-cardiovascular.md)
 * [Cronograma Vestibular (A terminar)](biologia/cronograma-vestibular-a-terminar.md)
 
 ## Química
