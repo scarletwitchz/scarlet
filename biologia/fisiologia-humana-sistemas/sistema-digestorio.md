@@ -74,4 +74,39 @@ pH = 2 (ácido);&#x20;
 
 * localizado abaixo do diafragma
 * armazena o alimento e inicia a digestão das proteínas
+* Paredes elásticas: armazenam até 2L de alimentos/líqudos. Nela, têm glândulas produtoras de muco e suco gástrico.&#x20;
+* Esfíncter cardíaco: ligação estômago-esôfago. Ele impede a volta da comida pro esôfago.
+* Digestão Química: começa quando o bolo alimentar chega ao estômago.
+* Quimificação: transformações químicas ocorridas no estômago.
 
+> Bolo alimentar "vira" quimo depois de misturado após a secreção do suco gástrico.
+
+* muco: protege o órgão do suco gástrico e sua acidez (pH = 2)
+* depois do quimo formado, o esfíncter abre o estômago, e o intestino abre, passando quimo aos poucos.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+### Intestino Delgado
+
+Começa no piloro/esfíncter pilórico (junção com estômago) e termina na válvola ileocecal (junção com cólon)
+
+* Maior parte da digestão química ocorre nele; ele tem cerca de 6 metros.
+* Mistura e transporta conteúdos vindos do interior do estômago; produz enzimas e outros componentes usados na digestão e absorção de nutrientes.
+* Muitos processos de solubilização de carboidratos, proteínas e gorduras que os reduzem a compostos simples acontecem nele
+* Segmentos: Duodeno, Jejuno e Íleo \
+  \-> Duodeno: Curva com forma de "C" que envolve o pâncreas. Ele mistura o quimo com sucos digestórios. \
+  \-> Jejuno: possui várias torções \
+  \-> Íleo: "Final"; vai abrindo pro intestino grosso.
+
+### Fígado
+
+* Maior glândula do corpo
+* Armazena glicogênio, sintetiza ureia (com amônia +  $$CO_2$$)
