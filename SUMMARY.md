@@ -40,7 +40,7 @@
 * [✨ Assuntos](historia/assuntos.md)
 * [História do Brasil](historia/historia-do-brasil/README.md)
   * [da Colônia ao Império](historia/historia-do-brasil/da-colonia-ao-imperio/README.md)
-    * [Page](historia/historia-do-brasil/da-colonia-ao-imperio/page.md)
+    * [Inconfidência Mineira](historia/historia-do-brasil/da-colonia-ao-imperio/inconfidencia-mineira.md)
     * [Conjuração Baiana (1798)](historia/historia-do-brasil/da-colonia-ao-imperio/conjuracao-baiana-1798.md)
 * [Pré-História](historia/pre-historia.md)
 * [Idade Antiga](historia/idade-antiga.md)
