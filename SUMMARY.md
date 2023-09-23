@@ -38,7 +38,10 @@
 ## História
 
 * [✨ Assuntos](historia/assuntos.md)
-* [História do Brasil](historia/historia-do-brasil.md)
+* [História do Brasil](historia/historia-do-brasil/README.md)
+  * [da Colônia ao Império](historia/historia-do-brasil/da-colonia-ao-imperio/README.md)
+    * [Page](historia/historia-do-brasil/da-colonia-ao-imperio/page.md)
+    * [Conjuração Baiana (1798)](historia/historia-do-brasil/da-colonia-ao-imperio/conjuracao-baiana-1798.md)
 * [Pré-História](historia/pre-historia.md)
 * [Idade Antiga](historia/idade-antiga.md)
 * [Idade Média](historia/idade-media.md)

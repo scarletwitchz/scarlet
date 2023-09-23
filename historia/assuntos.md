@@ -1,6 +1,6 @@
 # ✨ Assuntos
 
-* [História do Brasil](historia-do-brasil.md)
+* [História do Brasil](historia-do-brasil/)
 * [Pré-História](pre-historia.md)
 * [Idade Antiga](idade-antiga.md)
 * [Idade Média](idade-media.md)
