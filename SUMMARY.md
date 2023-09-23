@@ -158,6 +158,7 @@
 ## Sociologia
 
 * [Economia](sociologia/economia.md)
+* [Trabalho](sociologia/trabalho.md)
 
 ## Artes
 
