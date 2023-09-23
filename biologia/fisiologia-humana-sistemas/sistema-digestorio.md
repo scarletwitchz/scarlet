@@ -82,7 +82,7 @@ pH = 2 (ácido);&#x20;
 > Bolo alimentar "vira" quimo depois de misturado após a secreção do suco gástrico.
 
 * muco: protege o órgão do suco gástrico e sua acidez (pH = 2)
-* depois do quimo formado, o esfíncter abre o estômago, e o intestino abre, passando quimo aos poucos.
+* depois do quimo formado, o esfíncter terminal abre o estômago para o intestino (piloro), passando quimo aos poucos.
 
 <div>
 
