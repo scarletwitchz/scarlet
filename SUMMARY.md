@@ -87,7 +87,9 @@
 
 * [✨ Assuntos](geografia/geoo.md)
 * [Transportes](geografia/transportes.md)
-* [Agropecuária](geografia/agropecuaria.md)
+* [Agropecuária](geografia/agropecuaria/README.md)
+  * [Agricultura Empresarial](geografia/agropecuaria/agricultura-empresarial.md)
+  * [Agropecuária Familiar](geografia/agropecuaria/agropecuaria-familiar.md)
 * [Energia](geografia/energia.md)
 * [Urbanização](geografia/urbanizacao/README.md)
   * [Conurbação](geografia/urbanizacao/conurbacao.md)
