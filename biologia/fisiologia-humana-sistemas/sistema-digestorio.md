@@ -76,11 +76,11 @@ pH = 2 (ácido);&#x20;
 * Armazena o alimento e <mark style="color:red;">inicia a digestão das proteínas</mark>
 * <mark style="color:yellow;">Paredes elásticas:</mark> armazenam até 2L de alimentos/líqudos. Nela, têm glândulas produtoras de muco e suco gástrico.&#x20;
 * <mark style="color:yellow;">Esfíncter cardíaco</mark>: ligação estômago-esôfago. Ele impede a volta da comida pro esôfago.
-* <mark style="color:green;">**Digestão Química/Quimificação:**</mark> transformações químicas ocorridas no estômago, que começam quando o bolo alimentar chega nele.&#x20;
+* <mark style="color:green;">**Digestão Química/Quimificação:**</mark> transformações químicas ocorridas no estômago, que começam quando o bolo alimentar chega nele. (bolo -> quimo)
 
 > Bolo alimentar "vira" quimo depois de misturado após a secreção do suco gástrico.
 
-* muco: protege o órgão do suco gástrico e sua acidez (pH = 2)
+* Muco: protege o órgão do suco gástrico e sua acidez (pH = 2)
 * depois do quimo formado, o esfíncter terminal abre o estômago para o intestino (piloro), passando quimo aos poucos.
 
 <div>
@@ -117,12 +117,28 @@ Começa no piloro/esfíncter pilórico (junção com estômago) e termina na vá
 
 <mark style="color:yellow;">**"DETERGENTE DE GORDURA"**</mark>
 
-* Produzida pelo fígado, mas atua no Intestino DelgadO
+* Produzida pelo fígado, mas atua no Intestino Delgado
 * É uma mistura de sais emulsificantes que ajudam na digestão e na absorção de lipídios. Ela "quebra" as gorduras em partes menores pra digestão.
-* Ela NÃO tem enzimas digestórias&#x20;
+* <mark style="color:red;">**Ela NÃO tem enzimas digestórias**</mark>&#x20;
 * O excesso de bile vai pra vesícula biliar
 
-> Icterícia: DOENÇA ADQUIRIDA QUANDO PIGMENTOS ORIGINADOS DA&#x20;
+> Icterícia: Doença aquirida quando pigmentos originados da degradação de hemáceas na bile não são eliminadas e se acumulam na pele, fazendo pontos amarelos/icterícia.
 
 ### Pâncreas&#x20;
+
+* Secreta uma solução rica em <mark style="color:red;">**bicarbonato**</mark> (super básico: 8.6), que <mark style="color:red;">**neutraliza a acidez do quimo**</mark>. \
+  \-> Torna o pH do intestino básico, fazendo as enzimas pancreáticas (que são enviadas direto pro duodeno) funcionarem corretamente.
+
+> O intestino delgado também produz suas próprias enzimas, que, enquanto atuam juntamente com os [movimentos peristálticos](sistema-digestorio.md#movimentos-peristalticos), conduzem o alimento e realizam a <mark style="color:green;">**quilificação**</mark> (quimo -> quilo).
+
+### Intestino Grosso
+
+* Estruturas: Ceco e Colo
+* <mark style="color:yellow;">Ceco</mark>: Importância na fermentação dos alimentos vegetais. O apêndice é ligado a ele.
+* Cólon: 1 (ascendente), 2 (transversal), 3 (descendente), 4 (sigmóide) e 5 (reto) \
+  \-> <mark style="color:yellow;">Cólon 1 e 2</mark>: são pra digestão e absorção de substâncias \
+  \-> <mark style="color:yellow;">Cólon 3 e 4</mark>: são pra reabsorção de água e sais minerais, e os dejetos vão se solidificando ao passo que se locomovem pelo intestino grosso até virarem fezes. \
+  \-> <mark style="color:yellow;">Reto</mark>: absorve água, recebe fezes, estimula a evacuação e produz muco pra não machucar a parede intestinal do atrico com as fezes.
+
+
 
