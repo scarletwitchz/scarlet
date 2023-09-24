@@ -49,7 +49,7 @@ Luz branca pode ser percebida através de um prisma.
   \-> Corpo cinza-escuro: absorção grande \
   \-> Corpo branco: há difusão
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Velocidade
 

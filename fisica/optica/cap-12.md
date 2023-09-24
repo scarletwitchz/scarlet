@@ -28,4 +28,4 @@ Descrição:
 
 * Raios de luz que incidem sobre o espelho, se passarem na direção do centro da curvatura, se refeltirão.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>

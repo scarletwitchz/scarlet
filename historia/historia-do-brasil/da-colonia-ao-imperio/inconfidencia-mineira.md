@@ -38,5 +38,5 @@
 
 > Cláudio Manoel da Costa: idealização do movimento, poeta e criador da bandeira de MG: Liberdade, ainda que tardia.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
