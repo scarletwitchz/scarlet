@@ -1,6 +1,6 @@
 # Assuntos
 
-## Matéria da A6!!
+## Matéria da A7!!
 
 [Clica aqui](inicio/readme/a7.md)
 

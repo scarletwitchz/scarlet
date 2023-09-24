@@ -81,5 +81,15 @@
 
 ### Respiração Tecidual
 
+* $$O_2$$ é transportado dos pulmões aos tecidos por meio dos vasos sanguíneos, atingindo as células. \
+  \-> Favorece a <mark style="color:red;">**difusão**</mark> do $$O_2$$ do sangue pra célula e do $$CO_2$$ da célula pro sangue. \
+  \-> Difusão é o movimento espontâneo dos gases, sem o uso de energia ou esforço por parte do corpo, entre os alvéolos e os capilares nos pulmões.
 
+### Controle da Respiração
+
+* Do $$CO_2$$ liberado pelas células, temos: \
+  \-> Um pouco combina com a hemoglobina -> carbohemoglobina -> vai pras hemácias \
+  \-> Maioria reage com a água -> ácido carbônico -> origina $$H^+$$ e $$HCO_3^-$$ -> seguem pra plasma do sangue -> mantém a acidez do sangue, formando o "Tampão"
+* Repouso: frequência de inspiração a cada 4 a 6 segundos&#x20;
+* Condições Normais: frequência de inspiração a cada 5 segundos
 
