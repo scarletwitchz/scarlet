@@ -28,7 +28,7 @@
 
 ## Estrutura
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Estruturas do Pólipo e da Medusa</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Estruturas do Pólipo e da Medusa</p></figcaption></figure>
 
 ### Pólipo
 
@@ -41,7 +41,7 @@
 
 ## Reprodução
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Alguns tipos de reprodução.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Alguns tipos de reprodução.</p></figcaption></figure>
 
 ## Filos
 

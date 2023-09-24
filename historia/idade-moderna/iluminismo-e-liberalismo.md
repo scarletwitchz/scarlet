@@ -75,7 +75,7 @@
 * filosofia moderna
 * as leis devem seguir um propósito racional; não devem beneficiar apenas um grupo social específico, mas sim, toda a sociedade.
 
-## Características Gerais - Liberalismo
+## Características Gerais - <mark style="color:purple;">Liberalismo</mark>
 
 * <mark style="color:red;">Contra o Mercantilismo</mark>
 * Não intervenção do Estado na economia

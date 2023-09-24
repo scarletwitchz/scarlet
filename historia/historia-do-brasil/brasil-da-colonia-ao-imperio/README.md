@@ -1,4 +1,4 @@
-# da Colônia ao Império
+# Brasil, da Colônia ao Império
 
 ## Fatores Motivadores
 
@@ -35,5 +35,5 @@ Motivadas pelo Anticolonialismo: queriam ruptura com a Metrópole para acabar co
 
 Obs.: Conjuração (revolta) e Inconfidência ("crime contra a coroa")
 
-* Inconfidência Mineira ou Conjuração Mineira
-* Conjuração Baiana
+* [Inconfidência Mineira ou Conjuração Mineira](inconfidencia-mineira-1789.md)
+* [Conjuração Baiana](conjuracao-baiana-1798.md)

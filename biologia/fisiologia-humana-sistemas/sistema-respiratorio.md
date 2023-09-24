@@ -10,3 +10,4 @@
 ## Respiração Humana
 
 * Nariz, narinas, faringe, laringe, traqueia, brônquios e bronquíolos levam o ar exterior pro pulmão
+* O pulmão vai realizar as trocas gasosas

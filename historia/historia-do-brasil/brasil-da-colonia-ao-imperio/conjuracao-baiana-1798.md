@@ -4,6 +4,7 @@
 
 * Contestar autoridade portuguesa: queimaram forca no Pelourinho
 * Caráter popular e abolicionista (diferente da mineira, que era elitista)
+* Influenciada pela [Independência do Haiti](../../idade-contemporanea/independencia-da-america-espanhola/america-central.md#haiti).
 
 ### Causas
 
@@ -19,3 +20,7 @@
 * Abrir os portos a nível internacional
 
 ## Desenrolar
+
+* Distribuiam panfletos, e foram pegos por causa disso
+* O governador consegue prender os líderes; os mais pobres ganham as piores penas.
+* O movimento não contou com um ato concreto, pois os rebeldes foram presos antes de a rebelião ter um início.

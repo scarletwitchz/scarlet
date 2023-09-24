@@ -23,6 +23,9 @@
   * [Cap 11](fisica/optica/cap-11.md)
   * [Cap 12](fisica/optica/cap-12.md)
   * [Luz](fisica/optica/luz.md)
+* [Ondas](fisica/ondas/README.md)
+  * [Cap 16: Movimento Harmônico Simples](fisica/ondas/cap-16-movimento-harmonico-simples.md)
+  * [Cap 17: Ondas](fisica/ondas/cap-17-ondas.md)
 * [Forças de Coesão](fisica/forcas-de-coesao.md)
 
 ## Matemática
@@ -39,9 +42,9 @@
 
 * [✨ Assuntos](historia/assuntos.md)
 * [História do Brasil](historia/historia-do-brasil/README.md)
-  * [da Colônia ao Império](historia/historia-do-brasil/da-colonia-ao-imperio/README.md)
-    * [Inconfidência Mineira](historia/historia-do-brasil/da-colonia-ao-imperio/inconfidencia-mineira.md)
-    * [Conjuração Baiana (1798)](historia/historia-do-brasil/da-colonia-ao-imperio/conjuracao-baiana-1798.md)
+  * [Brasil, da Colônia ao Império](historia/historia-do-brasil/brasil-da-colonia-ao-imperio/README.md)
+    * [Inconfidência Mineira (1789)](historia/historia-do-brasil/brasil-da-colonia-ao-imperio/inconfidencia-mineira-1789.md)
+    * [Conjuração Baiana (1798)](historia/historia-do-brasil/brasil-da-colonia-ao-imperio/conjuracao-baiana-1798.md)
 * [Pré-História](historia/pre-historia.md)
 * [Idade Antiga](historia/idade-antiga.md)
 * [Idade Média](historia/idade-media.md)

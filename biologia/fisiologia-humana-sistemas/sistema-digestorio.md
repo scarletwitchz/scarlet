@@ -2,7 +2,7 @@
 
 Legenda: <mark style="color:green;">Processos</mark>, <mark style="color:yellow;">Estruturas</mark>, <mark style="color:purple;">Tópicos,</mark> <mark style="color:red;">Importâncias,</mark> <mark style="color:blue;">Exemplos</mark>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## <mark style="color:purple;">Nutrição</mark>
 
@@ -66,7 +66,7 @@ pH 7 = neutro; Nela há digestão mecânica (mastigação) e a química (insaliv
 * São movimentos rítmicos involuntários. eles acontecem por meio de comandos do sistema nervoso, que permitem a contração dos músculos do trato digestório, assim, seguindo o fluxo alimentar.
 * Logo quando há <mark style="color:green;">deglutição</mark> a epiglote se fecha (quando isso não acontece, há o <mark style="color:red;">engasgo</mark>).
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Movimentos peristálticos: O palato mole bloqueia o nariz e a epiglote bloqueia a laringe (pro bolo ir pro esôfago)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Movimentos peristálticos: O palato mole bloqueia o nariz e a epiglote bloqueia a laringe (pro bolo ir pro esôfago)</p></figcaption></figure>
 
 ### Estômago
 
