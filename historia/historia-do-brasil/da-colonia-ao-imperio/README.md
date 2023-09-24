@@ -2,10 +2,10 @@
 
 ## Fatores Motivadores
 
-* Iluminismo (a partir do séc XVIII)
+* [Iluminismo ](../../idade-moderna/iluminismo-e-liberalismo.md)(a partir do séc XVIII)
 * Revolução Industrial (1750)
-* Independência dos EUA (1776)
-* Revolução Francesa (1789)
+* [Independência dos EUA](../../idade-moderna/independencia-das-13-colonias-ou-revolucao-americana.md) (1776)
+* [Revolução Francesa](../../idade-moderna/revolucao-francesa.md) (1789)
 * Expansão Napoleônica (1789 - 1814)
 * Locais\
   \-> Revoltas nativistas e emancipacionistas \
@@ -35,5 +35,5 @@ Motivadas pelo Anticolonialismo: queriam ruptura com a Metrópole para acabar co
 
 Obs.: Conjuração (revolta) e Inconfidência ("crime contra a coroa")
 
-* [Inconfidência Mineira ou Conjuração Mineira](inconfidencia-mineira-1789.md)
+* [Inconfidência Mineira ou Conjuração Mineira](inconfidencia-mineira.md)
 * [Conjuração Baiana](conjuracao-baiana-1798.md)

@@ -72,12 +72,11 @@ pH 7 = neutro; Nela há digestão mecânica (mastigação) e a química (insaliv
 
 pH = 2 (ácido);&#x20;
 
-* localizado abaixo do diafragma
-* armazena o alimento e inicia a digestão das proteínas
-* Paredes elásticas: armazenam até 2L de alimentos/líqudos. Nela, têm glândulas produtoras de muco e suco gástrico.&#x20;
-* Esfíncter cardíaco: ligação estômago-esôfago. Ele impede a volta da comida pro esôfago.
-* Digestão Química: começa quando o bolo alimentar chega ao estômago.
-* Quimificação: transformações químicas ocorridas no estômago.
+* Localizado abaixo do diafragma
+* Armazena o alimento e <mark style="color:red;">inicia a digestão das proteínas</mark>
+* <mark style="color:yellow;">Paredes elásticas:</mark> armazenam até 2L de alimentos/líqudos. Nela, têm glândulas produtoras de muco e suco gástrico.&#x20;
+* <mark style="color:yellow;">Esfíncter cardíaco</mark>: ligação estômago-esôfago. Ele impede a volta da comida pro esôfago.
+* <mark style="color:green;">**Digestão Química/Quimificação:**</mark> transformações químicas ocorridas no estômago, que começam quando o bolo alimentar chega nele.&#x20;
 
 > Bolo alimentar "vira" quimo depois de misturado após a secreção do suco gástrico.
 
@@ -98,15 +97,32 @@ pH = 2 (ácido);&#x20;
 
 Começa no piloro/esfíncter pilórico (junção com estômago) e termina na válvola ileocecal (junção com cólon)
 
-* Maior parte da digestão química ocorre nele; ele tem cerca de 6 metros.
-* Mistura e transporta conteúdos vindos do interior do estômago; produz enzimas e outros componentes usados na digestão e absorção de nutrientes.
-* Muitos processos de solubilização de carboidratos, proteínas e gorduras que os reduzem a compostos simples acontecem nele
+* <mark style="color:red;">Maior parte da digestão química</mark> ocorre nele; ele tem cerca de 6 metros.
+* <mark style="color:red;">Mistura e transporta</mark> conteúdos vindos do interior do estômago; <mark style="color:red;">produz enzimas</mark> e outros componentes usados na digestão e absorção de nutrientes.
+* Muitos processos de <mark style="color:red;">solubilização de carboidratos, proteínas e gorduras</mark> que os reduzem a compostos simples acontecem nele
 * Segmentos: Duodeno, Jejuno e Íleo \
-  \-> Duodeno: Curva com forma de "C" que envolve o pâncreas. Ele mistura o quimo com sucos digestórios. \
-  \-> Jejuno: possui várias torções \
-  \-> Íleo: "Final"; vai abrindo pro intestino grosso.
+  \-> <mark style="color:yellow;">Duodeno</mark>: Curva com forma de "C" que envolve o pâncreas. Ele mistura o quimo com sucos digestórios. \
+  \-> <mark style="color:yellow;">Jejuno</mark>: possui várias torções \
+  \-> <mark style="color:yellow;">Íleo</mark>: "Final"; vai abrindo pro intestino grosso.
+* Glucagon: Polipeptídeo acionado em emergências que aumenta o açúcar no sangue.
+* Insulina: Hormônio produzido pelo [pâncreas ](sistema-digestorio.md#pancreas)que reduz o açúcar no sangue
 
 ### Fígado
 
 * Maior glândula do corpo
 * Armazena glicogênio, sintetiza ureia (com amônia +  $$CO_2$$)
+* Degrada substâncias tóxicas (ex.: álcool) e hemácias envelhecidas.
+
+#### <mark style="color:red;">Bile</mark>
+
+<mark style="color:yellow;">**"DETERGENTE DE GORDURA"**</mark>
+
+* Produzida pelo fígado, mas atua no Intestino DelgadO
+* É uma mistura de sais emulsificantes que ajudam na digestão e na absorção de lipídios. Ela "quebra" as gorduras em partes menores pra digestão.
+* Ela NÃO tem enzimas digestórias&#x20;
+* O excesso de bile vai pra vesícula biliar
+
+> Icterícia: DOENÇA ADQUIRIDA QUANDO PIGMENTOS ORIGINADOS DA&#x20;
+
+### Pâncreas&#x20;
+

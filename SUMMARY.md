@@ -42,9 +42,9 @@
 
 * [✨ Assuntos](historia/assuntos.md)
 * [História do Brasil](historia/historia-do-brasil/README.md)
-  * [Brasil, da Colônia ao Império](historia/historia-do-brasil/brasil-da-colonia-ao-imperio/README.md)
-    * [Inconfidência Mineira (1789)](historia/historia-do-brasil/brasil-da-colonia-ao-imperio/inconfidencia-mineira-1789.md)
-    * [Conjuração Baiana (1798)](historia/historia-do-brasil/brasil-da-colonia-ao-imperio/conjuracao-baiana-1798.md)
+  * [Brasil, da Colônia ao Império](historia/historia-do-brasil/da-colonia-ao-imperio/README.md)
+    * [Inconfidência Mineira (1789)](historia/historia-do-brasil/da-colonia-ao-imperio/inconfidencia-mineira.md)
+    * [Conjuração Baiana (1798)](historia/historia-do-brasil/da-colonia-ao-imperio/conjuracao-baiana-1798.md)
 * [Pré-História](historia/pre-historia.md)
 * [Idade Antiga](historia/idade-antiga.md)
 * [Idade Média](historia/idade-media.md)
@@ -87,6 +87,7 @@
 
 * [✨ Assuntos](geografia/geoo.md)
 * [Transportes](geografia/transportes.md)
+* [Agropecuária](geografia/agropecuaria.md)
 * [Energia](geografia/energia.md)
 * [Urbanização](geografia/urbanizacao/README.md)
   * [Conurbação](geografia/urbanizacao/conurbacao.md)
