@@ -38,3 +38,16 @@
 
 ## Revolução Verde
 
+### Contexto
+
+* A ideia surge em 1950, quando houve a sugestão de mudanças nas técnicas usadas na agricultura e no manejo de terras em países subdesenvolvidos.
+* Na Guerra Fria, os EUA criaram um pacote de mudanças, a Revolução Verde, que ajudaria a melhorar a insatisfação popular, que poderia iniciar algum tipo de revolta, devido a fome.
+
+### Mudanças&#x20;
+
+* Modernização de técnicas agrícolas
+* Mecanização do preparo do solo, do cultivo e da colheita -> Pra melhorar a produtividade
+* Para isso, os EUA financiaram a importação de recursos, máquinas e capacitação de profissionais; tudo isso em países subdesenvolvidos ("cobaias")
+* Problema: seria o mesmo padrão de mudanças em todos os lugares onde a Revolução Verde atuava, sem parar pra pensar em condições climáticas e ambientais diferentes. \
+  \-> Nesse viés, só grandes propriedades se "deram bem", porque tinham todas as condições necessárias pra modernização \
+  \-> "Deu errado" em lugares que não tinham tudo a seu favor, aumentando a pobreza local e provocando certo êxodo rural.&#x20;
