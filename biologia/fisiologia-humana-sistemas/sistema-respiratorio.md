@@ -1,6 +1,6 @@
 # Sistema Respiratório
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="450"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="450"><figcaption></figcaption></figure>
 
 ## Funções
 

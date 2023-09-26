@@ -185,6 +185,8 @@
   * [Expressionismo](artes/vanguardas-do-seculo-xx/expressionismo.md)
   * [Fauvismo](artes/vanguardas-do-seculo-xx/fauvismo.md)
   * [Cubismo](artes/vanguardas-do-seculo-xx/cubismo.md)
+  * [Futurismo](artes/vanguardas-do-seculo-xx/futurismo.md)
+  * [Dadaísmo](artes/vanguardas-do-seculo-xx/dadaismo.md)
 * [Arte na Idade Contemporânea](artes/arte-na-idade-contemporanea/README.md)
   * [Neoclassicismo](artes/arte-na-idade-contemporanea/neoclassicismo.md)
 
