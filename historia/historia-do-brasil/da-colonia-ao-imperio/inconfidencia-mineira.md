@@ -30,7 +30,7 @@
 ## Desenrolar
 
 * Ideias desses "desejos" se espalharam.
-* Revolucionários procuraram a ajuda de SP, RJ, Thomas Jefferson (não aceitou por causa dos riscos) e França (ocupada demais com a própria [Revolução](../../idade-moderna/revolucao-francesa.md)), mas não conseguiram ajuda de ninguém.
+* Revolucionários procuraram a ajuda de SP, RJ, Thomas Jefferson (não aceitou por causa dos riscos) e França (ocupada demais com a própria [Revolução](../../idade-contemporanea/revolucao-francesa/)), mas não conseguiram ajuda de ninguém.
 * Marcaram o motim para o dia da coleta da derrama, que foi cancelado por denúncias em fevereiro de 1789.
 * Houve uma "Delação Premiada" de Joaquim Silvério dos Reis em troca de perdão de dívidas.
 * Depois de buscas, líderes do movimento foram presos em maio de 1789.

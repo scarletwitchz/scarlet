@@ -14,7 +14,7 @@
 ### Desejos&#x20;
 
 * Fim da supremacia portuguesa
-* República com liberdade, igualdade e fraternidade -> [Rev. Francesa](../../idade-moderna/revolucao-francesa.md)
+* República com liberdade, igualdade e fraternidade -> [Rev. Francesa](../../idade-contemporanea/revolucao-francesa/)
 * Abolição da escravidão
 * Melhoria nas condições de vida dos mais pobres
 * Abrir os portos a nível internacional

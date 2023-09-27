@@ -45,7 +45,7 @@
 * 1689 - 1755
 * "O Espírito das Leis" → Teoria dos 3 poderes.
 * Estado representado pela tripartição dos poderes ==Legislativo, Executivo e Judiciário==, atuando em conjunto e se complementando.
-* [Revolução Francesa](revolucao-francesa.md)
+* [Revolução Francesa](../idade-contemporanea/revolucao-francesa/)
 
 ### Voltaire
 
@@ -60,7 +60,7 @@
 * 1712 - 1778
 * Críticas à propriedade privada → ela seria a causa das desigualdades
 * Estado democrático e republicano
-* [Revolução Francesa](revolucao-francesa.md)
+* [Revolução Francesa](../idade-contemporanea/revolucao-francesa/)
 * "O ser humano nasce bom, a sociedade o corrompe" → O Bom Selvagem
 * Contrato Social, sem Jusnaturalismo. → Só direito à Liberdade
 * Educação básica e gratuita para a população

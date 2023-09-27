@@ -21,7 +21,7 @@ description: '"Capitania Geral da Guatemala"'
 
 * Colônia francesa, produtora de café e cacau, possuía mão-de-obra escrava.
 * Teve uma rebelião de escravos em 1791 \
-  \-> Fim da escravidão nas colônias francesas em 1793 (comando dos Jacobinos na [Rev. Francesa](../../idade-moderna/revolucao-francesa.md))
+  \-> Fim da escravidão nas colônias francesas em 1793 (comando dos Jacobinos na [Rev. Francesa](../revolucao-francesa/))
 * Inglaterra e Espanha tentam invadir o Haiti durante a rebelião, mas uma guerra começa (iniciada pelo governante 'vitalício' haitiano Toussaint Louverture) \
   \-> Escravidão é restaurada no Governo Bonaparte e Louverture e preso e morto na França.
 * Dessalines toma a frente da revolução haitiana \

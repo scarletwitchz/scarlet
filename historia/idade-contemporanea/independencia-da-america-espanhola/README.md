@@ -67,7 +67,7 @@ Obs$$^2$$.: Chapetones tinham privilégios que os colocavam acima dos Criollos&#
 * Difusão do [Iluminismo](../../idade-moderna/iluminismo-e-liberalismo.md) e suas ideias
 * Revolução Industrial
 * [Independência dos EUA](../../idade-moderna/independencia-das-13-colonias-ou-revolucao-americana.md)
-* [Revolução Francesa](../../idade-moderna/revolucao-francesa.md)
+* [Revolução Francesa](../revolucao-francesa/)
 * Expansão Napoleônica
 * Revoltas populares locais
 * Ambição dos Criollos
