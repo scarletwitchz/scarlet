@@ -43,6 +43,8 @@
 * [✨ Assuntos](historia/assuntos.md)
 * [História do Brasil](historia/historia-do-brasil/README.md)
   * [Brasil, da Colônia ao Império](historia/historia-do-brasil/da-colonia-ao-imperio/README.md)
+    * [Período Joanino + Independência](historia/historia-do-brasil/brasil-da-colonia-ao-imperio/periodo-joanino-+-independencia.md)
+    * [Primeiro Reinado (1822 - 1831)](historia/historia-do-brasil/brasil-da-colonia-ao-imperio/primeiro-reinado-1822-1831.md)
     * [Inconfidência Mineira (1789)](historia/historia-do-brasil/da-colonia-ao-imperio/inconfidencia-mineira.md)
     * [Conjuração Baiana (1798)](historia/historia-do-brasil/da-colonia-ao-imperio/conjuracao-baiana-1798.md)
     * [Revolução Pernambucana (1816)](historia/historia-do-brasil/brasil-da-colonia-ao-imperio/revolucao-pernambucana-1816.md)
