@@ -166,6 +166,9 @@
 ## Filosofia
 
 * [✨ Assuntos](filosofia/assuntos.md)
+* [Existencialismo](filosofia/existencialismo/README.md)
+  * [Sartre](filosofia/existencialismo/sartre.md)
+  * [Kierkegaard (1813 - 1855)](filosofia/existencialismo/kierkegaard-1813-1855.md)
 * [Utilitarismo Ético](filosofia/utilitarismo-etico.md)
 * [Kant](filosofia/kant.md)
 

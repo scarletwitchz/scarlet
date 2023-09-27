@@ -51,3 +51,14 @@
 * Problema: seria o mesmo padrão de mudanças em todos os lugares onde a Revolução Verde atuava, sem parar pra pensar em condições climáticas e ambientais diferentes. \
   \-> Nesse viés, só grandes propriedades se "deram bem", porque tinham todas as condições necessárias pra modernização \
   \-> "Deu errado" em lugares que não tinham tudo a seu favor, aumentando a pobreza local e provocando certo êxodo rural.&#x20;
+
+## Outros Bizus pra A7
+
+* Commodities: mercadorias, geralmente matérias-primas, que são destinadas à exportação. \
+  \-> Ex.: Feijão, Soja, Trigo, Café, Arroz
+* Agricultura Empresarial: monocultora, abastece o mercado externo
+* [Revolução Verde](./#revolucao-verde)
+* [Agropecuária Intensiva/Extensiva](./#agropecuaria-intensiva-extensiva-caracteristicas)
+* Concentração fundiária: terras nas mãos de poucos
+* Subsídio agrícola: incentivo governamental pago a agroindústrias, organizações agrícolas e fazendas para complementar sua renda, gerenciar o fornecimento de commodities agrícolas e diminuir o custo de mercado
+* Agricultura familiar: usa menos terras que a empresarial, geralmente abastece&#x20;
