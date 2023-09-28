@@ -8,6 +8,7 @@
 * Fornecer oxigênio para as células do corpo
 * Remove gases residuais (ex.: $$CO_2$$)
 * Protege suas vias respiratórias de substâncias nocivas
+* Caminho: Cavidades nasais -> Faringe -> Laringe -> Traqueia -> Brônquios -> Bronquíolos
 
 ## Respiração Humana
 
@@ -28,7 +29,7 @@
 
 * Une faringe à traqueia
 * Atua como um canal de ar pros pulmões&#x20;
-* Também é o **órgão vocal**, onde estão localizadas as cordas vocais, que emitem som quando o ar entra e se força na fenda, fazendo as cordas vibrarem.
+* Também é o **órgão vocal**, onde estão localizadas as <mark style="color:red;">**cordas vocais**</mark>, que emitem som quando o ar entra e se força na fenda, fazendo as cordas vibrarem.
 
 ### Traqueia
 
@@ -92,5 +93,7 @@
   \-> Maioria reage com a água -> ácido carbônico -> origina $$H^+$$ e $$HCO_3^-$$ -> seguem pra plasma do sangue -> mantém a acidez do sangue, formando o "Tampão"
 * Repouso: frequência de inspiração a cada 4 a 6 segundos&#x20;
 * Condições Normais: frequência de inspiração a cada 5 segundos
-* O centro respiratório pode aumentar ou diminuir a frequência e amplitude dos movimentos, porque percebe a mudança do&#x20;
+* O centro respiratório pode aumentar ou diminuir a frequência e amplitude dos movimentos, porque percebe a mudança do pH do sangue. Se ele estiver ácido (estado de acidose) por causa do aumento de $$CO_2$$, ele induz os movimentos; Se ele estiver acima do normal (estado de alcalose), ele reduz os movimentos. Ele controla o pH do sangue.&#x20;
+
+
 
