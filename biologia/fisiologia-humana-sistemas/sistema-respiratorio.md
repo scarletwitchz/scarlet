@@ -92,4 +92,5 @@
   \-> Maioria reage com a água -> ácido carbônico -> origina $$H^+$$ e $$HCO_3^-$$ -> seguem pra plasma do sangue -> mantém a acidez do sangue, formando o "Tampão"
 * Repouso: frequência de inspiração a cada 4 a 6 segundos&#x20;
 * Condições Normais: frequência de inspiração a cada 5 segundos
+* O centro respiratório pode aumentar ou diminuir a frequência e amplitude dos movimentos, porque percebe a mudança do&#x20;
 
