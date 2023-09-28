@@ -8,7 +8,7 @@
 * Fornecer oxigênio para as células do corpo
 * Remove gases residuais (ex.: $$CO_2$$)
 * Protege suas vias respiratórias de substâncias nocivas
-* Caminho: Cavidades nasais -> Faringe -> Laringe -> Traqueia -> Brônquios -> Bronquíolos
+* Caminho: Cavidades nasais -> Faringe -> Laringe -> Traqueia -> Brônquios -> Bronquíolos -> Alvéolos
 
 ## Respiração Humana
 
