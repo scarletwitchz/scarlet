@@ -20,9 +20,13 @@
   \-> Camada de Ozônio\
   \-> 20 km --- 35 km de altitude
 * Buraco da Camada de Ozônio \
-  \-> Foi formado na Antártida, porque a baixa temperatura dificulta a reposição de $$O_3$$
+  \-> Ação dos Clorofluorcarbonetos (CFCs)\
+  \-> Foi formado na Antártida, porque a baixa temperatura dificulta a reposição de $$O_3$$, transformado em $$O_2$$ por reação com cloro \
+  \-> Protocolo de Montreal: promessa da redução da emissão de CFCs, assinada por vários países. O buraco se "fecharia", se cumprido, entre 2060 e 2080.
 
 ## Mesosfera
+
+
 
 ## Termosfera ou Ionosfera
 
