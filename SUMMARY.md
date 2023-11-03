@@ -109,9 +109,12 @@
 ## Literatura
 
 * [✨ Conteúdos](literatura/assuntos.md)
+* [Quinhentismo!](literatura/quinhentismo.md)
+* [Barroco!](literatura/barroco.md)
+* [Romantismo](literatura/romantismo/README.md)
+  * [Arcadismo!](literatura/romantismo/arcadismo.md)
 * [Naturalismo](literatura/naturalismo.md)
 * [Realismo](literatura/realismo.md)
-* [Romantismo](portugues/romantismo.md)
 * [Parnasianismo](literatura/parnasianismo.md)
 * [Simbolismo](literatura/simbolismo.md)
 

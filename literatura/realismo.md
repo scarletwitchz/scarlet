@@ -11,7 +11,7 @@
 
 * Abordagem objetiva da realidade
 * Interesse em temas sociais
-* Pós [Romantismo](../portugues/romantismo.md)
+* Pós [Romantismo](romantismo/)
 * Linguagem clara e objetiva
 * Compromisso com a verdade
 * Retratava pessoas comuns, aspectos realistas

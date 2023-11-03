@@ -19,7 +19,11 @@ layout:
 
 # ✨ Conteúdos
 
-* [Romantismo](../portugues/romantismo.md)
+* [Quinhentismo](quinhentismo.md)
+* [Barroco](../artes/arte-na-idade-moderna/barroco.md)
+* [Arcadismo](romantismo/arcadismo.md)
+*
+* [Romantismo](romantismo/)
 * Naturalismo
 * Realismo
 * Romantismo
