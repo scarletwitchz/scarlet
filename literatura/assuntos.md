@@ -21,9 +21,9 @@ layout:
 
 * [Quinhentismo](quinhentismo.md)
 * [Barroco](../artes/arte-na-idade-moderna/barroco.md)
-* [Arcadismo](romantismo/arcadismo.md)
+* [Arcadismo](arcadismo.md)
 *
-* [Romantismo](romantismo/)
+* [Romantismo](romantismo.md)
 * Naturalismo
 * Realismo
 * Romantismo
