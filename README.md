@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/Stars-4.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
+---
+
 # Assuntos
 
 ## Matéria da A7!!

@@ -16,7 +16,7 @@ Se precisamos ir de A até C, mas temos parada obrigatória em B, quantos caminh
 
 ![](https://i.imgur.com/YRBij6F.png)
 
-
+***
 
 ### <mark style="color:yellow;">Exemplo 2</mark>
 

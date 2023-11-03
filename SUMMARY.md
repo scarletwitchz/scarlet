@@ -7,7 +7,7 @@
 
 ## Física
 
-* [✨ Assuntos](fisica/assuntos.md)
+* [✨ Conteúdos](fisica/assuntos.md)
 * [Sistema Internacional de Unidades](fisica/sistema-internacional-de-unidades.md)
 * [Termologia](fisica/termologia/README.md)
   * [Termodinâmica](fisica/termologia/termodinamica.md)
@@ -30,7 +30,7 @@
 
 ## Matemática
 
-* [✨ Assuntos](matematica/assuntos.md)
+* [✨ Conteúdos](matematica/assuntos.md)
 * [Números Notáveis](matematica/numeros-notaveis.md)
 * [Análise Combinatória](matematica/analise-combinatoria/README.md)
   * [Permutação](matematica/analise-combinatoria/permutacao.md)
@@ -40,7 +40,7 @@
 
 ## História
 
-* [✨ Assuntos](historia/assuntos.md)
+* [✨ Conteúdos](historia/assuntos.md)
 * [História do Brasil](historia/historia-do-brasil/README.md)
   * [Brasil, da Colônia ao Império](historia/historia-do-brasil/da-colonia-ao-imperio/README.md)
     * [Período Joanino + Independência](historia/historia-do-brasil/brasil-da-colonia-ao-imperio/periodo-joanino-+-independencia.md)
@@ -90,7 +90,7 @@
 
 ## Geografia
 
-* [✨ Assuntos](geografia/geoo.md)
+* [✨ Conteúdos](geografia/geoo.md)
 * [Climatologia](geografia/climatologia/README.md)
   * [Camadas Atmosféricas](geografia/climatologia/camadas-atmosfericas.md)
 * [Transportes](geografia/transportes.md)
@@ -108,7 +108,7 @@
 
 ## Literatura
 
-* [✨ Assuntos](literatura/assuntos.md)
+* [✨ Conteúdos](literatura/assuntos.md)
 * [Naturalismo](literatura/naturalismo.md)
 * [Realismo](literatura/realismo.md)
 * [Romantismo](portugues/romantismo.md)
@@ -117,7 +117,7 @@
 
 ## Biologia
 
-* [✨ Assuntos](biologia/assuntos.md)
+* [✨ Conteúdos](biologia/assuntos.md)
 * [Sistemática](biologia/sistematica.md)
 * [Doenças](biologia/doencas/README.md)
   * [Verminoses](biologia/doencas/verminoses.md)
@@ -151,7 +151,7 @@
 
 ## Química
 
-* [✨ Assuntos](quimica/assuntos.md)
+* [✨ Conteúdos](quimica/assuntos.md)
 * [Calor](quimica/calor.md)
 * [Eletrólise](quimica/eletrolise.md)
 * [Pilhas Eletroquímicas](quimica/pilhas-eletroquimicas/README.md)
@@ -167,7 +167,7 @@
 
 ## Filosofia
 
-* [✨ Assuntos](filosofia/assuntos.md)
+* [✨ Conteúdos](filosofia/assuntos.md)
 * [Existencialismo](filosofia/existencialismo/README.md)
   * [Sartre](filosofia/existencialismo/sartre.md)
   * [Kierkegaard (1813 - 1855)](filosofia/existencialismo/kierkegaard-1813-1855.md)
@@ -181,7 +181,7 @@
 
 ## Artes
 
-* [✨ Assuntos](artes/assuntos.md)
+* [✨ Conteúdos](artes/assuntos.md)
 * [Arte na Idade Média](artes/arte-na-idade-media/README.md)
   * [Arte Gótica](artes/arte-na-idade-media/arte-gotica.md)
   * [Arte Românica](artes/arte-na-idade-media/arte-romanica.md)
