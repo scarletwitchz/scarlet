@@ -18,7 +18,7 @@
 * Assim, o eletrodo de cobre estará mais eletricamente negativo, atraindo os $$Cu^{+2}$$, que se reduzirão ao se acoplarem na placa, ou seja, adicionando mais cobre metálico na placa.
 * Eletrodo de Zinco seria o polo negativo da pilha (ânodo), e o Cobre, o positivo (cátodo).
 
-<figure><img src="../../.gitbook/assets/imagem_2023-08-16_190917708.png" alt=""><figcaption><p>Esquemática da Pilha de Daniell</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagem_2023-08-16_190917708.png" alt=""><figcaption><p>Esquemática da Pilha de Daniell -> Prof. Igor Química</p></figcaption></figure>
 
 {% hint style="danger" %}
 CRAO -> Cátodo Reduz, Ânodo Oxida

@@ -33,8 +33,8 @@
 * [✨ Conteúdos](matematica/assuntos.md)
 * [Números Notáveis](matematica/numeros-notaveis.md)
 * [Análise Combinatória](matematica/analise-combinatoria/README.md)
-  * [Permutação](matematica/analise-combinatoria/permutacao.md)
   * [Princípio Multiplicativo](matematica/analise-combinatoria/principio-multiplicativo.md)
+  * [Permutação](matematica/analise-combinatoria/permutacao.md)
   * [Combinação](matematica/analise-combinatoria/combinacao.md)
   * [Arranjo](matematica/analise-combinatoria/arranjo.md)
 
@@ -147,10 +147,13 @@
     * [Mamíferos](biologia/reino-animalia/vertebrados/mamiferos.md)
 * [Água e suas características](biologia/agua-e-suas-caracteristicas.md)
 * [Fisiologia Humana: Sistemas](biologia/fisiologia-humana-sistemas/README.md)
-  * [Sistema Digestório](biologia/fisiologia-humana-sistemas/sistema-digestorio.md)
   * [Sistema Respiratório](biologia/fisiologia-humana-sistemas/sistema-respiratorio.md)
   * [Sistema Cardiovascular](biologia/fisiologia-humana-sistemas/sistema-cardiovascular.md)
-* [Cronograma Vestibular (A terminar)](biologia/cronograma-vestibular-a-terminar.md)
+  * [Sistema Digestório](biologia/fisiologia-humana-sistemas/sistema-digestorio.md)
+  * [Sistema Linfático](biologia/fisiologia-humana-sistemas/sistema-linfatico.md)
+  * [Sistema Excretor](biologia/fisiologia-humana-sistemas/sistema-excretor.md)
+* [Cronograma Vestibular (A terminar)](biologia/cronograma-vestibular-a-terminar/README.md)
+  * [Page](biologia/cronograma-vestibular-a-terminar/page.md)
 
 ## Química
 
@@ -171,6 +174,7 @@
 ## Filosofia
 
 * [✨ Conteúdos](filosofia/assuntos.md)
+* [Nietzsche](filosofia/nietzsche.md)
 * [Existencialismo](filosofia/existencialismo/README.md)
   * [Sartre](filosofia/existencialismo/sartre.md)
   * [Kierkegaard (1813 - 1855)](filosofia/existencialismo/kierkegaard-1813-1855.md)

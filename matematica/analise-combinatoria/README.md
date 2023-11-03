@@ -1,6 +1,11 @@
 # Análise Combinatória
 
-* Ver também: [Princípio Multiplicativo](principio-multiplicativo.md), [Permutação](permutacao.md), [Combinação](combinacao.md), [Arranjo](arranjo.md)
+## Tópicos
+
+* [Princípio Multiplicativo](principio-multiplicativo.md)&#x20;
+* [Permutação](permutacao.md)
+* [Combinação](combinacao.md)
+* [Arranjo](arranjo.md)
 
 ## <mark style="color:yellow;">Exemplos</mark>
 

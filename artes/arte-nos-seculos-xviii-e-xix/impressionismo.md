@@ -20,7 +20,7 @@
 * Informalidade da vida burguesa retratada (festas, piqueniques) eram temas recorrentes das telas.
 * Artistar rejeitados e incompreendidos pelo público
 
-## Personalidades &#x20;
+## Autores e Obras &#x20;
 
 ### Manet (1832-1883)
 
