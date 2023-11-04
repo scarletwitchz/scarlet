@@ -91,6 +91,7 @@
 ## Geografia
 
 * [✨ Conteúdos](geografia/geoo.md)
+* [Globalização](geografia/globalizacao.md)
 * [Climatologia](geografia/climatologia/README.md)
   * [Camadas Atmosféricas](geografia/climatologia/camadas-atmosfericas.md)
 * [Transportes](geografia/transportes.md)
